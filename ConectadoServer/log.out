@@ -1,0 +1,1998 @@
+11/Feb/2016 06:35:12,631- Logging: Properties file loaded
+11/Feb/2016 06:35:12,637- Logging: Properties file loaded
+11/Feb/2016 06:50:47,561- Logging: Properties file loaded
+11/Feb/2016 06:50:47,566- Logging: Could not bind to port : 13000
+Retrying
+11/Feb/2016 06:50:47,566- Logging: Properties file loaded
+11/Feb/2016 06:50:47,573- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 25308
+21/Feb/2016 04:59:22,967- Logging: Properties file loaded
+21/Feb/2016 04:59:23,057- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+21/Feb/2016 04:59:56,146- Logging: Properties file loaded
+21/Feb/2016 04:59:56,152- Logging: Could not bind to port : 13000
+Retrying
+21/Feb/2016 04:59:56,153- Logging: Properties file loaded
+21/Feb/2016 04:59:56,160- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 52577
+21/Feb/2016 05:01:33,432- Logging: Properties file loaded
+21/Feb/2016 05:01:33,437- Logging: Could not bind to port : 13000
+Retrying
+21/Feb/2016 05:01:33,438- Logging: Properties file loaded
+21/Feb/2016 05:01:33,446- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 52593
+21/Feb/2016 05:01:58,357- Logging: Properties file loaded
+21/Feb/2016 05:01:58,363- Logging: Could not bind to port : 13000
+Retrying
+21/Feb/2016 05:01:58,364- Logging: Properties file loaded
+21/Feb/2016 05:01:58,371- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 52599
+21/Feb/2016 05:03:55,631- Logging: Properties file loaded
+21/Feb/2016 05:03:55,636- Logging: Could not bind to port : 13000
+Retrying
+21/Feb/2016 05:03:55,636- Logging: Properties file loaded
+21/Feb/2016 05:03:55,643- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 52623
+21/Feb/2016 05:04:09,939- Logging: Properties file loaded
+21/Feb/2016 05:04:09,944- Logging: Could not bind to port : 13000
+Retrying
+21/Feb/2016 05:04:09,945- Logging: Properties file loaded
+21/Feb/2016 05:04:09,952- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 52626
+21/Feb/2016 05:28:56,460- Logging: Properties file loaded
+21/Feb/2016 05:28:56,479- Logging: Could not bind to port : 13000
+Retrying
+21/Feb/2016 05:28:56,480- Logging: Properties file loaded
+21/Feb/2016 05:28:56,501- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 53810
+21/Feb/2016 05:39:31,524- Logging: Properties file loaded
+21/Feb/2016 05:39:31,541- Logging: Could not bind to port : 13000
+Retrying
+21/Feb/2016 05:39:31,542- Logging: Properties file loaded
+21/Feb/2016 05:39:31,554- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 53937
+21/Feb/2016 05:39:31,555- Logging: 
+Waiting for a client ...
+21/Feb/2016 05:40:04,308- Logging: Properties file loaded
+21/Feb/2016 05:40:04,323- Logging: Could not bind to port : 13000
+Retrying
+21/Feb/2016 05:40:04,324- Logging: Properties file loaded
+21/Feb/2016 05:40:04,335- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 53943
+21/Feb/2016 05:40:04,337- Logging: 
+Waiting for a client ...
+21/Feb/2016 12:57:14,555- Logging: Properties file loaded
+21/Feb/2016 12:57:14,567- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+21/Feb/2016 12:57:14,567- Logging: 
+Waiting for a client ...
+21/Feb/2016 12:57:27,650- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=56497,localport=13000]
+21/Feb/2016 12:57:27,653- Logging: 
+Waiting for a client ...
+21/Feb/2016 12:57:27,659- Logging: 
+Removing client thread 56497 at 0
+21/Feb/2016 13:50:00,042- Logging: Properties file loaded
+21/Feb/2016 13:50:00,048- Logging: Could not bind to port : 13000
+Retrying
+21/Feb/2016 13:50:00,049- Logging: Properties file loaded
+21/Feb/2016 13:50:00,056- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 57901
+21/Feb/2016 13:50:00,057- Logging: 
+Waiting for a client ...
+21/Feb/2016 17:31:41,675- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=60900,localport=13000]
+21/Feb/2016 17:31:41,694- Logging: 
+Waiting for a client ...
+21/Feb/2016 17:31:41,695- Logging: 
+Removing client thread 60900 at 0
+21/Feb/2016 17:36:02,169- Logging: Properties file loaded
+21/Feb/2016 17:36:02,182- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+21/Feb/2016 17:36:02,183- Logging: 
+Waiting for a client ...
+21/Feb/2016 17:36:30,019- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=60970,localport=13000]
+21/Feb/2016 17:36:30,022- Logging: 
+Waiting for a client ...
+21/Feb/2016 17:36:30,028- Logging: 60970 ERROR reading: client.Message
+21/Feb/2016 17:36:30,028- Logging: 
+Removing client thread 60970 at 0
+21/Feb/2016 17:37:58,455- Logging: Properties file loaded
+21/Feb/2016 17:37:58,467- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+21/Feb/2016 17:37:58,468- Logging: 
+Waiting for a client ...
+21/Feb/2016 17:43:09,805- Logging: Properties file loaded
+21/Feb/2016 17:43:09,818- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+21/Feb/2016 17:43:09,818- Logging: 
+Waiting for a client ...
+21/Feb/2016 17:43:52,604- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=61042,localport=13000]
+21/Feb/2016 17:43:52,607- Logging: 
+Waiting for a client ...
+21/Feb/2016 17:43:52,614- Logging: 
+61042 ERROR reading: client.Message
+21/Feb/2016 17:43:52,614- Logging: 
+Removing client thread 61042 at 0
+22/Feb/2016 18:35:23,271- Logging: Properties file loaded
+22/Feb/2016 18:35:23,340- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+22/Feb/2016 18:35:23,341- Logging: 
+Waiting for a client ...
+22/Feb/2016 18:35:41,967- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18273,localport=13000]
+22/Feb/2016 18:35:41,996- Logging: 
+Waiting for a client ...
+22/Feb/2016 18:35:42,025- Logging: 
+18273 ERROR reading: client.Message
+22/Feb/2016 18:35:42,026- Logging: 
+Removing client thread 18273 at 0
+22/Feb/2016 18:42:47,165- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18479,localport=13000]
+22/Feb/2016 18:42:47,166- Logging: 
+Waiting for a client ...
+22/Feb/2016 18:42:47,169- Logging: 
+18479 ERROR reading: client.Message
+22/Feb/2016 18:42:47,169- Logging: 
+Removing client thread 18479 at 0
+22/Feb/2016 18:57:06,764- Logging: Properties file loaded
+22/Feb/2016 18:57:06,799- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+22/Feb/2016 18:57:06,800- Logging: 
+Waiting for a client ...
+22/Feb/2016 18:57:27,337- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18887,localport=13000]
+22/Feb/2016 18:57:27,344- Logging: 
+Waiting for a client ...
+22/Feb/2016 18:57:27,360- Logging: 
+18887 ERROR reading: client.Message
+22/Feb/2016 18:57:27,361- Logging: 
+Removing client thread 18887 at 0
+25/Feb/2016 15:13:25,007- Logging: Properties file loaded
+25/Feb/2016 15:13:25,052- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+25/Feb/2016 15:13:25,053- Logging: 
+Waiting for a client ...
+25/Feb/2016 15:13:43,874- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=23776,localport=13000]
+25/Feb/2016 15:13:43,880- Logging: 
+Waiting for a client ...
+25/Feb/2016 15:13:43,893- Logging: 
+23776 ERROR reading: client.Message
+25/Feb/2016 15:13:43,894- Logging: 
+Removing client thread 23776 at 0
+27/Feb/2016 01:55:35,630- Logging: Properties file loaded
+27/Feb/2016 01:55:35,663- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+27/Feb/2016 01:55:35,664- Logging: 
+Waiting for a client ...
+27/Feb/2016 01:55:49,293- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=5105,localport=13000]
+27/Feb/2016 01:55:49,302- Logging: 
+Waiting for a client ...
+27/Feb/2016 01:55:49,314- Logging: 
+5105 ERROR reading: client.Message
+27/Feb/2016 01:55:49,314- Logging: 
+Removing client thread 5105 at 0
+27/Feb/2016 02:11:52,656- Logging: Properties file loaded
+27/Feb/2016 02:11:52,672- Logging: Could not bind to port : 13000
+Retrying
+27/Feb/2016 02:11:52,673- Logging: Properties file loaded
+27/Feb/2016 02:11:52,691- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 5218
+27/Feb/2016 02:11:52,693- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:12:17,135- Logging: Properties file loaded
+27/Feb/2016 02:12:17,179- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+27/Feb/2016 02:12:17,181- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:12:36,161- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=5222,localport=13000]
+27/Feb/2016 02:12:36,168- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:12:36,182- Logging: 
+5222 ERROR reading: client.Message
+27/Feb/2016 02:12:36,182- Logging: 
+Removing client thread 5222 at 0
+27/Feb/2016 02:13:00,651- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=5225,localport=13000]
+27/Feb/2016 02:13:00,653- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:13:00,666- Logging: 
+5225 ERROR reading: client.Message
+27/Feb/2016 02:13:00,667- Logging: 
+Removing client thread 5225 at 0
+27/Feb/2016 02:20:07,143- Logging: Properties file loaded
+27/Feb/2016 02:20:07,177- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+27/Feb/2016 02:20:07,178- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:20:21,803- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=5452,localport=13000]
+27/Feb/2016 02:20:21,810- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:20:21,822- Logging: 
+5452 ERROR reading: client.Message
+27/Feb/2016 02:20:21,823- Logging: 
+Removing client thread 5452 at 0
+27/Feb/2016 02:22:07,231- Logging: Properties file loaded
+27/Feb/2016 02:22:07,263- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+27/Feb/2016 02:22:07,264- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:22:17,318- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=5466,localport=13000]
+27/Feb/2016 02:22:17,325- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:22:17,339- Logging: 
+5466 ERROR reading: com.socket.Message
+27/Feb/2016 02:22:17,339- Logging: 
+Removing client thread 5466 at 0
+27/Feb/2016 02:27:59,127- Logging: Properties file loaded
+27/Feb/2016 02:27:59,144- Logging: Could not bind to port : 13000
+Retrying
+27/Feb/2016 02:27:59,145- Logging: Properties file loaded
+27/Feb/2016 02:27:59,164- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 5505
+27/Feb/2016 02:27:59,166- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:28:23,475- Logging: Properties file loaded
+27/Feb/2016 02:28:23,509- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+27/Feb/2016 02:28:23,510- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:28:32,173- Logging: Properties file loaded
+27/Feb/2016 02:28:32,190- Logging: Could not bind to port : 13000
+Retrying
+27/Feb/2016 02:28:32,191- Logging: Properties file loaded
+27/Feb/2016 02:28:32,210- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 5509
+27/Feb/2016 02:28:32,211- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:29:10,000- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=5513,localport=13000]
+27/Feb/2016 02:29:10,007- Logging: 
+Waiting for a client ...
+27/Feb/2016 02:29:10,021- Logging: 
+5513 ERROR reading: client.Message
+27/Feb/2016 02:29:10,022- Logging: 
+Removing client thread 5513 at 0
+27/Feb/2016 02:36:55,832- Logging: Properties file loaded
+27/Feb/2016 02:36:55,862- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 13000
+27/Feb/2016 02:36:55,864- Logging: 
+Waiting for a client ...
+28/Feb/2016 03:31:32,870- Logging: Properties file loaded
+28/Feb/2016 03:31:32,887- Logging: Properties file loaded
+28/Feb/2016 03:31:43,487- Logging: Properties file loaded
+28/Feb/2016 03:31:57,657- Logging: 
+Server Thread 35300 running.
+28/Feb/2016 03:38:45,011- Logging: Properties file loaded
+28/Feb/2016 03:38:56,535- Logging: 
+Server Thread 35397 running.
+28/Feb/2016 03:40:32,094- Logging: Properties file loaded
+28/Feb/2016 03:40:39,502- Logging: 
+Server Thread 35423 running.
+28/Feb/2016 03:48:48,428- Logging: Properties file loaded
+28/Feb/2016 03:48:58,430- Logging: 
+Server Thread 35624 running.
+28/Feb/2016 03:57:17,744- Logging: Properties file loaded
+28/Feb/2016 03:57:17,762- Logging: Can not bind to port : 13000
+Retrying
+28/Feb/2016 03:57:17,763- Logging: Properties file loaded
+28/Feb/2016 03:57:17,781- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 35718
+28/Feb/2016 03:57:26,784- Logging: Properties file loaded
+28/Feb/2016 03:57:26,819- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+28/Feb/2016 04:00:11,920- Logging: 
+Server Thread 35732 running.
+28/Feb/2016 04:00:20,022- Logging: java.net.SocketException: socket closed
+28/Feb/2016 04:02:13,303- Logging: Properties file loaded
+28/Feb/2016 04:02:13,348- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+28/Feb/2016 04:02:20,455- Logging: 
+Server Thread 35761 running.
+
+28/Feb/2016 04:02:33,784- Logging: 
+Server Thread 35763 running.
+
+28/Feb/2016 04:06:09,544- Logging: Properties file loaded
+28/Feb/2016 04:06:09,578- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+28/Feb/2016 04:14:53,117- Logging: Properties file loaded
+28/Feb/2016 04:14:53,133- Logging: Can not bind to port : 13000
+Retrying
+
+28/Feb/2016 04:14:53,134- Logging: Properties file loaded
+28/Feb/2016 04:14:53,153- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 35936
+28/Feb/2016 04:15:17,342- Logging: Properties file loaded
+28/Feb/2016 04:15:17,381- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+28/Feb/2016 04:15:26,356- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=35945,localport=13000]
+28/Feb/2016 04:15:26,363- Logging: 
+Server Thread 35945 running.
+
+28/Feb/2016 04:15:58,967- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=35949,localport=13000]
+28/Feb/2016 04:15:58,970- Logging: 
+Server Thread 35949 running.
+
+28/Feb/2016 04:16:04,352- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=35951,localport=13000]
+28/Feb/2016 04:16:04,355- Logging: 
+Server Thread 35951 running.
+
+28/Feb/2016 04:45:27,891- Logging: Properties file loaded
+28/Feb/2016 04:45:27,927- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+28/Feb/2016 04:45:35,600- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=36309,localport=13000]
+28/Feb/2016 04:45:35,606- Logging: 
+Server Thread 36309 running.
+
+28/Feb/2016 04:45:50,059- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=36313,localport=13000]
+28/Feb/2016 04:45:50,061- Logging: 
+Server Thread 36313 running.
+
+29/Feb/2016 15:32:02,798- Logging: 
+Removing client thread 36313 at 1
+04/Mar/2016 06:12:33,939- Logging: java.net.SocketException: Connection reset
+04/Mar/2016 06:12:33,989- Logging: 
+Removing client thread 36309 at 0
+12/Mar/2016 23:13:52,120- Logging: Properties file loaded
+12/Mar/2016 23:13:52,204- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+12/Mar/2016 23:14:24,362- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=42731,localport=13000]
+12/Mar/2016 23:14:24,368- Logging: 
+Server Thread 42731 running.
+
+12/Mar/2016 23:14:42,614- Logging: 
+Removing client thread 42731 at 0
+12/Mar/2016 23:18:14,174- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=42733,localport=13000]
+12/Mar/2016 23:18:14,175- Logging: 
+Server Thread 42733 running.
+
+12/Mar/2016 23:18:56,181- Logging: 
+Removing client thread 42733 at 0
+13/Mar/2016 03:57:25,319- Logging: Properties file loaded
+13/Mar/2016 04:00:29,427- Logging: Properties file loaded
+13/Mar/2016 04:00:29,442- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+14/Mar/2016 23:39:10,974- Logging: Properties file loaded
+14/Mar/2016 23:39:10,993- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+14/Mar/2016 23:39:22,854- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=38386,localport=13000]
+14/Mar/2016 23:39:22,857- Logging: 
+Server Thread 38386 running.
+
+14/Mar/2016 23:39:48,983- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=38389,localport=13000]
+14/Mar/2016 23:39:48,984- Logging: 
+Server Thread 38389 running.
+
+14/Mar/2016 23:40:28,424- Logging: 
+Removing client thread 38386 at 0
+14/Mar/2016 23:40:29,865- Logging: 
+Removing client thread 38389 at 0
+14/Mar/2016 23:49:19,611- Logging: Properties file loaded
+14/Mar/2016 23:49:19,617- Logging: Can not bind to port : 13000
+Retrying
+
+14/Mar/2016 23:49:19,618- Logging: Properties file loaded
+14/Mar/2016 23:49:19,626- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 38471
+14/Mar/2016 23:49:40,189- Logging: Properties file loaded
+14/Mar/2016 23:49:40,202- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+14/Mar/2016 23:49:47,150- Logging: Properties file loaded
+14/Mar/2016 23:49:47,162- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+14/Mar/2016 23:50:01,171- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=38473,localport=13000]
+14/Mar/2016 23:50:01,174- Logging: 
+Server Thread 38473 running.
+
+14/Mar/2016 23:51:14,699- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=38476,localport=13000]
+14/Mar/2016 23:51:14,700- Logging: 
+Server Thread 38476 running.
+
+14/Mar/2016 23:51:42,961- Logging: 
+Removing client thread 38473 at 0
+14/Mar/2016 23:51:46,685- Logging: 
+Removing client thread 38476 at 0
+14/Mar/2016 23:51:50,803- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=38478,localport=13000]
+14/Mar/2016 23:51:50,805- Logging: 
+Server Thread 38478 running.
+
+14/Mar/2016 23:52:06,312- Logging: 
+Removing client thread 38478 at 0
+15/Mar/2016 01:07:02,741- Logging: Properties file loaded
+15/Mar/2016 01:07:02,743- Logging: Properties file loaded
+15/Mar/2016 01:07:02,763- Logging: Properties file loaded
+15/Mar/2016 01:07:02,764- Logging: Properties file loaded
+15/Mar/2016 01:07:02,772- Logging: javax.xml.transform.TransformerException: java.io.FileNotFoundException: C:\Data.xml (Access is denied)
+15/Mar/2016 01:07:02,783- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+15/Mar/2016 01:09:06,800- Logging: Properties file loaded
+15/Mar/2016 01:09:06,802- Logging: Properties file loaded
+15/Mar/2016 01:09:06,819- Logging: Properties file loaded
+15/Mar/2016 01:09:06,820- Logging: Properties file loaded
+15/Mar/2016 01:09:06,827- Logging: javax.xml.transform.TransformerException: java.io.FileNotFoundException: C:\Data.xml (Access is denied)
+15/Mar/2016 01:09:06,831- Logging: Can not bind to port : 13000
+Retrying
+
+15/Mar/2016 01:09:06,831- Logging: Properties file loaded
+15/Mar/2016 01:09:06,832- Logging: Properties file loaded
+15/Mar/2016 01:09:06,833- Logging: Properties file loaded
+15/Mar/2016 01:09:06,834- Logging: Properties file loaded
+15/Mar/2016 01:09:06,834- Logging: javax.xml.transform.TransformerException: java.io.FileNotFoundException: C:\Data.xml (Access is denied)
+15/Mar/2016 01:09:06,842- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 39181
+15/Mar/2016 01:10:27,289- Logging: Properties file loaded
+15/Mar/2016 01:10:27,291- Logging: Properties file loaded
+15/Mar/2016 01:10:27,308- Logging: Properties file loaded
+15/Mar/2016 01:10:27,309- Logging: Properties file loaded
+15/Mar/2016 01:10:27,315- Logging: javax.xml.transform.TransformerException: java.io.FileNotFoundException: C:\XML\data.xml (The system cannot find the path specified)
+15/Mar/2016 01:10:27,328- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+15/Mar/2016 01:10:54,723- Logging: Properties file loaded
+15/Mar/2016 01:10:54,725- Logging: Properties file loaded
+15/Mar/2016 01:10:54,743- Logging: Properties file loaded
+15/Mar/2016 01:10:54,745- Logging: Properties file loaded
+15/Mar/2016 01:10:54,751- Logging: javax.xml.transform.TransformerException: java.io.FileNotFoundException: C:\Users\Shevaun\git\ConectadoServidor\.\XML\data.xml (The system cannot find the path specified)
+15/Mar/2016 01:10:54,756- Logging: Can not bind to port : 13000
+Retrying
+
+15/Mar/2016 01:10:54,756- Logging: Properties file loaded
+15/Mar/2016 01:10:54,756- Logging: Properties file loaded
+15/Mar/2016 01:10:54,758- Logging: Properties file loaded
+15/Mar/2016 01:10:54,758- Logging: Properties file loaded
+15/Mar/2016 01:10:54,759- Logging: javax.xml.transform.TransformerException: java.io.FileNotFoundException: C:\Users\Shevaun\git\ConectadoServidor\.\XML\data.xml (The system cannot find the path specified)
+15/Mar/2016 01:10:54,766- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 39184
+15/Mar/2016 01:11:18,898- Logging: Properties file loaded
+15/Mar/2016 01:11:18,899- Logging: Properties file loaded
+15/Mar/2016 01:11:18,917- Logging: Properties file loaded
+15/Mar/2016 01:11:18,919- Logging: Properties file loaded
+15/Mar/2016 01:11:18,976- Logging: Can not bind to port : 13000
+Retrying
+
+15/Mar/2016 01:11:18,976- Logging: Properties file loaded
+15/Mar/2016 01:11:18,977- Logging: Properties file loaded
+15/Mar/2016 01:11:18,987- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 39185
+15/Mar/2016 01:15:34,053- Logging: Properties file loaded
+15/Mar/2016 01:15:34,055- Logging: Properties file loaded
+15/Mar/2016 01:15:34,072- Logging: Properties file loaded
+15/Mar/2016 01:15:34,074- Logging: Properties file loaded
+15/Mar/2016 01:15:34,120- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+15/Mar/2016 01:16:53,568- Logging: Properties file loaded
+15/Mar/2016 01:16:53,570- Logging: Properties file loaded
+15/Mar/2016 01:16:53,602- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+15/Mar/2016 01:17:27,755- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=39196,localport=13000]
+15/Mar/2016 01:17:27,758- Logging: 
+Server Thread 39196 running.
+
+15/Mar/2016 01:18:00,548- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=39198,localport=13000]
+15/Mar/2016 01:18:00,549- Logging: 
+Server Thread 39198 running.
+
+15/Mar/2016 01:18:48,798- Logging: 
+Removing client thread 39196 at 0
+15/Mar/2016 01:18:52,357- Logging: 
+Removing client thread 39198 at 0
+05/Apr/2016 03:13:59,924- Logging: Properties file loaded
+05/Apr/2016 03:13:59,926- Logging: Properties file loaded
+05/Apr/2016 03:13:59,965- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 03:14:20,882- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=6666,localport=13000]
+05/Apr/2016 03:14:20,886- Logging: 
+Server Thread 6666 running.
+
+05/Apr/2016 03:14:48,557- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=6671,localport=13000]
+05/Apr/2016 03:14:48,558- Logging: 
+Server Thread 6671 running.
+
+05/Apr/2016 03:16:45,691- Logging: java.net.SocketException: Connection reset
+05/Apr/2016 03:16:45,691- Logging: 
+Removing client thread 6666 at 0
+05/Apr/2016 03:19:36,799- Logging: Properties file loaded
+05/Apr/2016 03:19:36,802- Logging: Properties file loaded
+05/Apr/2016 03:19:36,835- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 03:19:49,344- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=6735,localport=13000]
+05/Apr/2016 03:19:49,348- Logging: 
+Server Thread 6735 running.
+
+05/Apr/2016 03:20:02,108- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=6736,localport=13000]
+05/Apr/2016 03:20:02,110- Logging: 
+Server Thread 6736 running.
+
+05/Apr/2016 03:23:23,953- Logging: Properties file loaded
+05/Apr/2016 03:23:23,955- Logging: Properties file loaded
+05/Apr/2016 03:23:23,986- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 03:23:32,885- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=6792,localport=13000]
+05/Apr/2016 03:23:32,888- Logging: 
+Server Thread 6792 running.
+
+05/Apr/2016 03:23:44,508- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=6793,localport=13000]
+05/Apr/2016 03:23:44,510- Logging: 
+Server Thread 6793 running.
+
+05/Apr/2016 04:00:58,837- Logging: Properties file loaded
+05/Apr/2016 04:00:58,840- Logging: Properties file loaded
+05/Apr/2016 04:00:58,873- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 04:01:14,125- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=7291,localport=13000]
+05/Apr/2016 04:01:14,128- Logging: 
+Server Thread 7291 running.
+
+05/Apr/2016 04:01:27,816- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=7294,localport=13000]
+05/Apr/2016 04:01:27,817- Logging: 
+Server Thread 7294 running.
+
+05/Apr/2016 04:16:58,729- Logging: Properties file loaded
+05/Apr/2016 04:16:58,731- Logging: Properties file loaded
+05/Apr/2016 04:16:58,766- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 04:17:11,366- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=7541,localport=13000]
+05/Apr/2016 04:17:11,369- Logging: 
+Server Thread 7541 running.
+
+05/Apr/2016 04:17:25,209- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=7559,localport=13000]
+05/Apr/2016 04:17:25,210- Logging: 
+Server Thread 7559 running.
+
+05/Apr/2016 04:19:31,285- Logging: Properties file loaded
+05/Apr/2016 04:19:31,287- Logging: Properties file loaded
+05/Apr/2016 04:19:31,317- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 04:19:44,730- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=7589,localport=13000]
+05/Apr/2016 04:19:44,734- Logging: 
+Server Thread 7589 running.
+
+05/Apr/2016 04:20:01,277- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=7591,localport=13000]
+05/Apr/2016 04:20:01,279- Logging: 
+Server Thread 7591 running.
+
+05/Apr/2016 04:54:11,079- Logging: Properties file loaded
+05/Apr/2016 04:54:11,081- Logging: Properties file loaded
+05/Apr/2016 04:54:11,114- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 04:56:48,846- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=52860,localport=13000]
+05/Apr/2016 04:56:48,875- Logging: 
+Server Thread 52860 running.
+
+05/Apr/2016 04:57:14,909- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=8178,localport=13000]
+05/Apr/2016 04:57:14,910- Logging: 
+Server Thread 8178 running.
+
+05/Apr/2016 04:57:23,780- Logging: 
+Removing client thread 8178 at 1
+05/Apr/2016 04:57:49,154- Logging: 
+Client accepted: Socket[addr=/192.168.43.176,port=8183,localport=13000]
+05/Apr/2016 04:57:49,155- Logging: 
+Server Thread 8183 running.
+
+05/Apr/2016 04:58:18,488- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=52938,localport=13000]
+05/Apr/2016 04:58:18,490- Logging: 
+Server Thread 52938 running.
+
+05/Apr/2016 04:58:26,031- Logging: 
+Removing client thread 52938 at 2
+05/Apr/2016 04:58:26,129- Logging: java.net.SocketException: Connection reset
+05/Apr/2016 04:58:26,130- Logging: 
+Removing client thread 52860 at 0
+05/Apr/2016 04:58:52,261- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=52967,localport=13000]
+05/Apr/2016 04:58:52,261- Logging: 
+Server Thread 52967 running.
+
+05/Apr/2016 05:03:35,092- Logging: Properties file loaded
+05/Apr/2016 05:03:35,094- Logging: Properties file loaded
+05/Apr/2016 05:03:35,127- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 05:05:15,422- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=8237,localport=13000]
+05/Apr/2016 05:05:15,426- Logging: 
+Server Thread 8237 running.
+
+05/Apr/2016 05:06:18,919- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=53302,localport=13000]
+05/Apr/2016 05:06:18,923- Logging: 
+Server Thread 53302 running.
+
+05/Apr/2016 05:13:38,619- Logging: Properties file loaded
+05/Apr/2016 05:13:38,621- Logging: Properties file loaded
+05/Apr/2016 05:13:38,654- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 05:13:56,858- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=8283,localport=13000]
+05/Apr/2016 05:13:56,861- Logging: 
+Server Thread 8283 running.
+
+05/Apr/2016 05:14:13,501- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=53668,localport=13000]
+05/Apr/2016 05:14:13,503- Logging: 
+Server Thread 53668 running.
+
+05/Apr/2016 05:14:16,442- Logging: 
+Removing client thread 53668 at 1
+05/Apr/2016 05:14:45,339- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=53693,localport=13000]
+05/Apr/2016 05:14:45,341- Logging: 
+Server Thread 53693 running.
+
+05/Apr/2016 05:17:34,968- Logging: 
+Removing client thread 8283 at 0
+05/Apr/2016 05:18:17,114- Logging: 
+Removing client thread 53693 at 0
+05/Apr/2016 05:18:59,625- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=53916,localport=13000]
+05/Apr/2016 05:18:59,626- Logging: 
+Server Thread 53916 running.
+
+05/Apr/2016 05:19:14,479- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=8325,localport=13000]
+05/Apr/2016 05:19:14,480- Logging: 
+Server Thread 8325 running.
+
+05/Apr/2016 05:29:49,971- Logging: Properties file loaded
+05/Apr/2016 05:29:49,973- Logging: Properties file loaded
+05/Apr/2016 05:29:50,005- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 05:29:56,729- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=54422,localport=13000]
+05/Apr/2016 05:29:56,736- Logging: 
+Server Thread 54422 running.
+
+05/Apr/2016 05:30:03,422- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=8402,localport=13000]
+05/Apr/2016 05:30:03,423- Logging: 
+Server Thread 8402 running.
+
+05/Apr/2016 05:45:41,365- Logging: Properties file loaded
+05/Apr/2016 05:45:41,367- Logging: Properties file loaded
+05/Apr/2016 05:45:41,398- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 05:45:43,094- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=55225,localport=13000]
+05/Apr/2016 05:45:43,105- Logging: 
+Server Thread 55225 running.
+
+05/Apr/2016 05:45:56,934- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=8517,localport=13000]
+05/Apr/2016 05:45:56,935- Logging: 
+Server Thread 8517 running.
+
+05/Apr/2016 05:50:00,903- Logging: Properties file loaded
+05/Apr/2016 05:50:00,905- Logging: Properties file loaded
+05/Apr/2016 05:50:00,937- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 05:50:08,772- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=8540,localport=13000]
+05/Apr/2016 05:50:08,775- Logging: 
+Server Thread 8540 running.
+
+05/Apr/2016 05:52:14,367- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=55580,localport=13000]
+05/Apr/2016 05:52:14,369- Logging: 
+Server Thread 55580 running.
+
+05/Apr/2016 05:55:00,744- Logging: Properties file loaded
+05/Apr/2016 05:55:00,747- Logging: Properties file loaded
+05/Apr/2016 05:55:00,795- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 05:55:05,838- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=8584,localport=13000]
+05/Apr/2016 05:55:05,841- Logging: 
+Server Thread 8584 running.
+
+05/Apr/2016 05:55:30,070- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=55749,localport=13000]
+05/Apr/2016 05:55:30,072- Logging: 
+Server Thread 55749 running.
+
+05/Apr/2016 06:33:59,932- Logging: Properties file loaded
+05/Apr/2016 06:33:59,934- Logging: Properties file loaded
+05/Apr/2016 06:33:59,975- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 06:34:11,020- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=9240,localport=13000]
+05/Apr/2016 06:34:11,023- Logging: 
+Server Thread 9240 running.
+
+05/Apr/2016 06:36:03,425- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=57309,localport=13000]
+05/Apr/2016 06:36:03,428- Logging: 
+Server Thread 57309 running.
+
+05/Apr/2016 06:38:22,818- Logging: Properties file loaded
+05/Apr/2016 06:38:22,820- Logging: Properties file loaded
+05/Apr/2016 06:38:22,853- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 06:38:34,266- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=57438,localport=13000]
+05/Apr/2016 06:38:34,269- Logging: 
+Server Thread 57438 running.
+
+05/Apr/2016 06:38:40,184- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=9294,localport=13000]
+05/Apr/2016 06:38:40,185- Logging: 
+Server Thread 9294 running.
+
+05/Apr/2016 06:45:13,328- Logging: Properties file loaded
+05/Apr/2016 06:45:13,330- Logging: Properties file loaded
+05/Apr/2016 06:45:13,360- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+05/Apr/2016 06:47:28,584- Logging: 
+Client accepted: Socket[addr=/192.168.43.97,port=18583,localport=13000]
+05/Apr/2016 06:47:28,594- Logging: 
+Server Thread 18583 running.
+
+05/Apr/2016 06:47:56,908- Logging: 
+Client accepted: Socket[addr=/192.168.43.6,port=57869,localport=13000]
+05/Apr/2016 06:47:56,911- Logging: 
+Server Thread 57869 running.
+
+05/Apr/2016 07:09:31,082- Logging: 
+Removing client thread 18583 at 0
+05/Apr/2016 07:13:42,922- Logging: 
+Removing client thread 57869 at 0
+06/Apr/2016 01:04:43,450- Logging: Properties file loaded
+06/Apr/2016 01:04:43,455- Logging: Properties file loaded
+06/Apr/2016 01:04:43,545- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 01:05:22,567- Logging: 
+Client accepted: Socket[addr=/10.20.120.151,port=52676,localport=13000]
+06/Apr/2016 01:05:22,576- Logging: 
+Server Thread 52676 running.
+
+06/Apr/2016 01:06:45,785- Logging: 
+Client accepted: Socket[addr=/10.20.120.132,port=12998,localport=13000]
+06/Apr/2016 01:06:45,788- Logging: 
+Server Thread 12998 running.
+
+06/Apr/2016 01:09:34,601- Logging: Properties file loaded
+06/Apr/2016 01:09:34,604- Logging: Properties file loaded
+06/Apr/2016 01:09:34,636- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 01:09:42,496- Logging: 
+Client accepted: Socket[addr=/10.20.120.151,port=52679,localport=13000]
+06/Apr/2016 01:09:42,520- Logging: 
+Server Thread 52679 running.
+
+06/Apr/2016 01:10:14,434- Logging: 
+Client accepted: Socket[addr=/10.20.120.132,port=13123,localport=13000]
+06/Apr/2016 01:10:14,435- Logging: 
+Server Thread 13123 running.
+
+06/Apr/2016 01:35:03,637- Logging: 
+Removing client thread 52679 at 0
+06/Apr/2016 01:47:29,820- Logging: 
+Client accepted: Socket[addr=/10.20.120.151,port=54917,localport=13000]
+06/Apr/2016 01:47:29,824- Logging: 
+Server Thread 54917 running.
+
+06/Apr/2016 01:47:56,337- Logging: 
+Removing client thread 13123 at 0
+06/Apr/2016 01:48:22,053- Logging: 
+Client accepted: Socket[addr=/10.20.120.132,port=13912,localport=13000]
+06/Apr/2016 01:48:22,054- Logging: 
+Server Thread 13912 running.
+
+06/Apr/2016 01:57:33,071- Logging: 
+Client accepted: Socket[addr=/10.20.120.151,port=54987,localport=13000]
+06/Apr/2016 01:57:33,073- Logging: 
+Server Thread 54987 running.
+
+06/Apr/2016 01:57:44,652- Logging: 
+Removing client thread 54987 at 2
+06/Apr/2016 01:58:12,237- Logging: Properties file loaded
+06/Apr/2016 01:58:12,239- Logging: Properties file loaded
+06/Apr/2016 01:58:12,272- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 01:58:49,406- Logging: 
+Client accepted: Socket[addr=/10.20.120.151,port=54993,localport=13000]
+06/Apr/2016 01:58:49,418- Logging: 
+Server Thread 54993 running.
+
+06/Apr/2016 01:59:16,007- Logging: 
+Client accepted: Socket[addr=/10.20.120.132,port=14155,localport=13000]
+06/Apr/2016 01:59:16,008- Logging: 
+Server Thread 14155 running.
+
+06/Apr/2016 02:00:09,622- Logging: java.lang.NullPointerException
+06/Apr/2016 02:00:09,623- Logging: 
+Removing client thread 54993 at 0
+06/Apr/2016 02:00:50,539- Logging: 
+Client accepted: Socket[addr=/10.20.120.151,port=54995,localport=13000]
+06/Apr/2016 02:00:50,543- Logging: 
+Server Thread 54995 running.
+
+06/Apr/2016 02:01:04,890- Logging: java.lang.NullPointerException
+06/Apr/2016 02:01:04,890- Logging: 
+Removing client thread 54995 at 1
+06/Apr/2016 02:01:39,457- Logging: 
+Removing client thread 14155 at 0
+06/Apr/2016 02:02:00,279- Logging: Properties file loaded
+06/Apr/2016 02:02:00,281- Logging: Properties file loaded
+06/Apr/2016 02:02:00,314- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 02:02:19,125- Logging: 
+Client accepted: Socket[addr=/10.20.120.132,port=14177,localport=13000]
+06/Apr/2016 02:02:19,128- Logging: 
+Server Thread 14177 running.
+
+06/Apr/2016 02:02:57,841- Logging: 
+Client accepted: Socket[addr=/10.20.120.151,port=55002,localport=13000]
+06/Apr/2016 02:02:57,846- Logging: 
+Server Thread 55002 running.
+
+06/Apr/2016 02:03:52,884- Logging: java.lang.NullPointerException
+06/Apr/2016 02:03:52,884- Logging: 
+Removing client thread 14177 at 0
+06/Apr/2016 02:39:43,291- Logging: 
+Removing client thread 55002 at 0
+06/Apr/2016 03:51:37,401- Logging: Properties file loaded
+06/Apr/2016 03:51:37,408- Logging: Properties file loaded
+06/Apr/2016 03:51:37,528- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 03:55:06,219- Logging: 
+Client accepted: Socket[addr=/10.20.120.132,port=16810,localport=13000]
+06/Apr/2016 03:55:06,227- Logging: 
+Server Thread 16810 running.
+
+06/Apr/2016 04:04:59,728- Logging: 
+Client accepted: Socket[addr=/10.20.120.132,port=16968,localport=13000]
+06/Apr/2016 04:04:59,732- Logging: 
+Server Thread 16968 running.
+
+06/Apr/2016 04:16:18,072- Logging: java.net.SocketException: Software caused connection abort: recv failed
+06/Apr/2016 04:16:18,074- Logging: 
+Removing client thread 16810 at 0
+06/Apr/2016 04:16:18,074- Logging: java.net.SocketException: Software caused connection abort: recv failed
+06/Apr/2016 04:16:18,076- Logging: 
+Removing client thread 16968 at 0
+06/Apr/2016 05:38:33,347- Logging: Properties file loaded
+06/Apr/2016 05:38:33,352- Logging: Properties file loaded
+06/Apr/2016 05:38:33,451- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 05:40:22,895- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17277,localport=13000]
+06/Apr/2016 05:40:22,904- Logging: 
+Server Thread 17277 running.
+
+06/Apr/2016 05:40:49,675- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17278,localport=13000]
+06/Apr/2016 05:40:49,679- Logging: 
+Server Thread 17278 running.
+
+06/Apr/2016 05:43:51,686- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17281,localport=13000]
+06/Apr/2016 05:43:51,690- Logging: 
+Server Thread 17281 running.
+
+06/Apr/2016 05:50:57,670- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17288,localport=13000]
+06/Apr/2016 05:50:57,671- Logging: 
+Server Thread 17288 running.
+
+06/Apr/2016 05:51:22,554- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17289,localport=13000]
+06/Apr/2016 05:51:22,555- Logging: 
+Server Thread 17289 running.
+
+06/Apr/2016 05:52:36,504- Logging: 
+Removing client thread 17288 at 3
+06/Apr/2016 05:52:44,474- Logging: 
+Removing client thread 17281 at 2
+06/Apr/2016 05:53:28,349- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17292,localport=13000]
+06/Apr/2016 05:53:28,350- Logging: 
+Server Thread 17292 running.
+
+06/Apr/2016 05:53:48,396- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17293,localport=13000]
+06/Apr/2016 05:53:48,397- Logging: 
+Server Thread 17293 running.
+
+06/Apr/2016 06:04:39,863- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 06:04:39,864- Logging: 
+Removing client thread 17278 at 1
+06/Apr/2016 06:04:56,109- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 06:04:56,109- Logging: 
+Removing client thread 17277 at 0
+06/Apr/2016 06:05:06,763- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 06:05:06,763- Logging: 
+Removing client thread 17289 at 0
+06/Apr/2016 06:14:30,558- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17307,localport=13000]
+06/Apr/2016 06:14:30,559- Logging: 
+Server Thread 17307 running.
+
+06/Apr/2016 06:15:21,224- Logging: 
+Removing client thread 17307 at 2
+06/Apr/2016 06:15:31,523- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17309,localport=13000]
+06/Apr/2016 06:15:31,524- Logging: 
+Server Thread 17309 running.
+
+06/Apr/2016 06:15:52,123- Logging: 
+Removing client thread 17309 at 2
+06/Apr/2016 06:15:57,352- Logging: 
+Removing client thread 17293 at 1
+06/Apr/2016 06:23:07,907- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17314,localport=13000]
+06/Apr/2016 06:23:07,908- Logging: 
+Server Thread 17314 running.
+
+06/Apr/2016 06:35:08,368- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17323,localport=13000]
+06/Apr/2016 06:35:08,368- Logging: 
+Server Thread 17323 running.
+
+06/Apr/2016 06:36:16,804- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 06:36:16,804- Logging: 
+Removing client thread 17323 at 2
+06/Apr/2016 06:46:01,386- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17330,localport=13000]
+06/Apr/2016 06:46:01,386- Logging: 
+Server Thread 17330 running.
+
+06/Apr/2016 06:47:14,458- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 06:47:14,458- Logging: 
+Removing client thread 17330 at 2
+06/Apr/2016 06:49:14,328- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17333,localport=13000]
+06/Apr/2016 06:49:14,329- Logging: 
+Server Thread 17333 running.
+
+06/Apr/2016 06:49:37,695- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 06:49:37,696- Logging: 
+Removing client thread 17333 at 2
+06/Apr/2016 06:49:42,686- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17335,localport=13000]
+06/Apr/2016 06:49:42,687- Logging: 
+Server Thread 17335 running.
+
+06/Apr/2016 06:50:01,854- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 06:50:01,854- Logging: 
+Removing client thread 17335 at 2
+06/Apr/2016 06:50:11,741- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17336,localport=13000]
+06/Apr/2016 06:50:11,742- Logging: 
+Server Thread 17336 running.
+
+06/Apr/2016 06:51:52,768- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 06:51:52,769- Logging: 
+Removing client thread 17336 at 2
+06/Apr/2016 06:52:43,908- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17338,localport=13000]
+06/Apr/2016 06:52:43,909- Logging: 
+Server Thread 17338 running.
+
+06/Apr/2016 06:53:17,018- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 06:53:17,019- Logging: 
+Removing client thread 17338 at 2
+06/Apr/2016 07:54:19,397- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17566,localport=13000]
+06/Apr/2016 07:54:19,401- Logging: 
+Server Thread 17566 running.
+
+06/Apr/2016 07:54:58,582- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=17575,localport=13000]
+06/Apr/2016 07:54:58,585- Logging: 
+Server Thread 17575 running.
+
+06/Apr/2016 08:13:19,991- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 08:13:19,992- Logging: 
+Removing client thread 17566 at 2
+06/Apr/2016 08:13:30,428- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 08:13:30,429- Logging: 
+Removing client thread 17575 at 2
+06/Apr/2016 08:14:17,445- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18009,localport=13000]
+06/Apr/2016 08:14:17,448- Logging: 
+Server Thread 18009 running.
+
+06/Apr/2016 08:15:57,990- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18022,localport=13000]
+06/Apr/2016 08:15:57,994- Logging: 
+Server Thread 18022 running.
+
+06/Apr/2016 08:16:56,353- Logging: java.lang.NullPointerException
+06/Apr/2016 08:16:56,354- Logging: 
+Removing client thread 17314 at 1
+06/Apr/2016 08:17:08,959- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18030,localport=13000]
+06/Apr/2016 08:17:08,960- Logging: 
+Server Thread 18030 running.
+
+06/Apr/2016 08:20:59,846- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 08:20:59,846- Logging: 
+Removing client thread 18009 at 1
+06/Apr/2016 08:21:08,864- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 08:21:08,864- Logging: 
+Removing client thread 18022 at 1
+06/Apr/2016 08:21:26,677- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18063,localport=13000]
+06/Apr/2016 08:21:26,681- Logging: 
+Server Thread 18063 running.
+
+06/Apr/2016 08:21:59,678- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 08:21:59,679- Logging: 
+Removing client thread 18063 at 2
+06/Apr/2016 08:22:08,492- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18071,localport=13000]
+06/Apr/2016 08:22:08,495- Logging: 
+Server Thread 18071 running.
+
+06/Apr/2016 08:34:12,600- Logging: 
+Removing client thread 17292 at 0
+06/Apr/2016 08:34:39,207- Logging: 
+Removing client thread 18030 at 0
+06/Apr/2016 08:34:53,869- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 08:34:53,869- Logging: 
+Removing client thread 18071 at 0
+06/Apr/2016 08:35:12,667- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18154,localport=13000]
+06/Apr/2016 08:35:12,671- Logging: 
+Server Thread 18154 running.
+
+06/Apr/2016 08:35:53,763- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=18161,localport=13000]
+06/Apr/2016 08:35:53,767- Logging: 
+Server Thread 18161 running.
+
+06/Apr/2016 09:37:44,434- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 09:37:44,435- Logging: 
+Removing client thread 18161 at 1
+06/Apr/2016 09:38:20,073- Logging: Properties file loaded
+06/Apr/2016 09:38:20,075- Logging: Properties file loaded
+06/Apr/2016 09:38:20,549- Logging: Database created!
+06/Apr/2016 09:38:20,552- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 09:57:27,188- Logging: Properties file loaded
+06/Apr/2016 09:57:27,190- Logging: Properties file loaded
+06/Apr/2016 09:57:27,439- Logging: Database created!
+06/Apr/2016 09:57:27,441- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 10:39:21,902- Logging: Properties file loaded
+06/Apr/2016 10:39:21,904- Logging: Properties file loaded
+06/Apr/2016 10:39:22,155- Logging: Database created!
+06/Apr/2016 10:39:22,158- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 10:39:41,392- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=20842,localport=13000]
+06/Apr/2016 10:39:41,394- Logging: 
+Server Thread 20842 running.
+
+06/Apr/2016 10:41:24,437- Logging: Properties file loaded
+06/Apr/2016 10:41:24,439- Logging: Properties file loaded
+06/Apr/2016 10:41:24,790- Logging: Can't create database 'login'; database exists
+06/Apr/2016 10:41:24,792- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 10:42:48,804- Logging: Properties file loaded
+06/Apr/2016 10:42:48,806- Logging: Properties file loaded
+06/Apr/2016 10:42:49,049- Logging: Can't create database 'login'; database exists
+06/Apr/2016 10:42:49,050- Logging: Can not bind to port : 13000
+Retrying
+
+06/Apr/2016 10:42:49,050- Logging: Properties file loaded
+06/Apr/2016 10:42:49,050- Logging: Properties file loaded
+06/Apr/2016 10:42:49,054- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 20869
+06/Apr/2016 10:43:04,624- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=20871,localport=13000]
+06/Apr/2016 10:43:04,628- Logging: 
+Server Thread 20871 running.
+
+06/Apr/2016 11:12:51,532- Logging: Properties file loaded
+06/Apr/2016 11:12:51,534- Logging: Properties file loaded
+06/Apr/2016 11:12:51,792- Logging: Can't create database 'login'; database exists
+06/Apr/2016 11:12:51,794- Logging: Server started on IP : Digitz-PC/192.168.56.1, Port : 13000
+06/Apr/2016 11:13:10,404- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=21224,localport=13000]
+06/Apr/2016 11:13:10,406- Logging: 
+Server Thread 21224 running.
+
+06/Apr/2016 11:25:01,221- Logging: Properties file loaded
+06/Apr/2016 11:25:01,223- Logging: Properties file loaded
+06/Apr/2016 11:25:01,468- Logging: Can't create database 'login'; database exists
+06/Apr/2016 11:25:01,469- Logging: Can not bind to port : 13000
+Retrying
+
+06/Apr/2016 11:25:01,469- Logging: Properties file loaded
+06/Apr/2016 11:25:01,470- Logging: Properties file loaded
+06/Apr/2016 11:25:01,474- Logging: Server startet. IP : Digitz-PC/192.168.56.1, Port : 21333
+06/Apr/2016 11:25:18,420- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=21336,localport=13000]
+06/Apr/2016 11:25:18,421- Logging: 
+Server Thread 21336 running.
+
+06/Apr/2016 11:27:02,008- Logging: 
+Client accepted: Socket[addr=/127.0.0.1,port=21352,localport=13000]
+06/Apr/2016 11:27:02,009- Logging: 
+Server Thread 21352 running.
+
+06/Apr/2016 12:46:47,358- Logging: Properties file loaded
+06/Apr/2016 12:46:47,362- Logging: Properties file loaded
+06/Apr/2016 12:46:49,800- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 17:02:55,562- Logging: Properties file loaded
+06/Apr/2016 17:02:55,582- Logging: Properties file loaded
+06/Apr/2016 17:02:58,231- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 18:05:36,663- Logging: Properties file loaded
+06/Apr/2016 18:05:36,684- Logging: Properties file loaded
+06/Apr/2016 18:05:38,994- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 18:07:42,801- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2241,localport=13000]
+06/Apr/2016 18:07:42,809- Logging: 
+Server Thread 2241 running.
+
+06/Apr/2016 18:31:32,046- Logging: Properties file loaded
+06/Apr/2016 18:31:32,051- Logging: Properties file loaded
+06/Apr/2016 18:31:32,575- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 18:31:32,580- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 18:32:33,994- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2408,localport=13000]
+06/Apr/2016 18:32:33,998- Logging: 
+Server Thread 2408 running.
+
+06/Apr/2016 18:33:21,945- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2410,localport=13000]
+06/Apr/2016 18:33:21,947- Logging: 
+Server Thread 2410 running.
+
+06/Apr/2016 18:35:09,060- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2432,localport=13000]
+06/Apr/2016 18:35:09,061- Logging: 
+Server Thread 2432 running.
+
+06/Apr/2016 18:35:17,241- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:35:17,241- Logging: 
+Removing client thread 2410 at 1
+06/Apr/2016 18:35:21,661- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:35:21,661- Logging: 
+Removing client thread 2408 at 0
+06/Apr/2016 18:35:33,216- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:35:33,217- Logging: 
+Removing client thread 2432 at 0
+06/Apr/2016 18:36:35,852- Logging: Properties file loaded
+06/Apr/2016 18:36:35,856- Logging: Properties file loaded
+06/Apr/2016 18:36:36,279- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 18:36:36,284- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 18:36:45,474- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2437,localport=13000]
+06/Apr/2016 18:36:45,480- Logging: 
+Server Thread 2437 running.
+
+06/Apr/2016 18:37:12,009- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:37:12,009- Logging: 
+Removing client thread 2437 at 0
+06/Apr/2016 18:38:31,469- Logging: Properties file loaded
+06/Apr/2016 18:38:31,473- Logging: Properties file loaded
+06/Apr/2016 18:38:31,894- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 18:38:31,896- Logging: Can not bind to port : 13000
+Retrying
+
+06/Apr/2016 18:38:31,897- Logging: Properties file loaded
+06/Apr/2016 18:38:31,898- Logging: Properties file loaded
+06/Apr/2016 18:38:31,905- Logging: Server startet. IP : Dell-Pc/192.168.56.1, Port : 2439
+06/Apr/2016 18:38:37,431- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2440,localport=13000]
+06/Apr/2016 18:38:37,434- Logging: 
+Server Thread 2440 running.
+
+06/Apr/2016 18:38:41,962- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2441,localport=13000]
+06/Apr/2016 18:38:41,965- Logging: 
+Server Thread 2441 running.
+
+06/Apr/2016 18:39:05,382- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:39:05,383- Logging: 
+Removing client thread 2441 at 1
+06/Apr/2016 18:39:28,265- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2443,localport=13000]
+06/Apr/2016 18:39:28,267- Logging: 
+Server Thread 2443 running.
+
+06/Apr/2016 18:39:32,456- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2444,localport=13000]
+06/Apr/2016 18:39:32,459- Logging: 
+Server Thread 2444 running.
+
+06/Apr/2016 18:40:50,480- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:40:50,481- Logging: 
+Removing client thread 2443 at 1
+06/Apr/2016 18:40:58,595- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2446,localport=13000]
+06/Apr/2016 18:40:58,600- Logging: 
+Server Thread 2446 running.
+
+06/Apr/2016 18:42:05,055- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:42:05,056- Logging: 
+Removing client thread 2444 at 1
+06/Apr/2016 18:46:05,508- Logging: Properties file loaded
+06/Apr/2016 18:46:05,513- Logging: Properties file loaded
+06/Apr/2016 18:46:05,943- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 18:46:05,949- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 18:46:19,592- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2458,localport=13000]
+06/Apr/2016 18:46:19,597- Logging: 
+Server Thread 2458 running.
+
+06/Apr/2016 18:46:36,064- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2461,localport=13000]
+06/Apr/2016 18:46:36,067- Logging: 
+Server Thread 2461 running.
+
+06/Apr/2016 18:47:16,186- Logging: java.lang.NullPointerException
+06/Apr/2016 18:47:16,187- Logging: 
+Removing client thread 2461 at 1
+06/Apr/2016 18:47:38,836- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:47:38,836- Logging: 
+Removing client thread 2458 at 0
+06/Apr/2016 18:56:16,916- Logging: Properties file loaded
+06/Apr/2016 18:56:16,921- Logging: Properties file loaded
+06/Apr/2016 18:56:17,356- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 18:56:17,361- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 18:56:26,188- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2505,localport=13000]
+06/Apr/2016 18:56:26,194- Logging: 
+Server Thread 2505 running.
+
+06/Apr/2016 18:56:31,139- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2506,localport=13000]
+06/Apr/2016 18:56:31,141- Logging: 
+Server Thread 2506 running.
+
+06/Apr/2016 18:57:47,821- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:57:47,821- Logging: 
+Removing client thread 2505 at 0
+06/Apr/2016 18:58:37,834- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2508,localport=13000]
+06/Apr/2016 18:58:37,837- Logging: 
+Server Thread 2508 running.
+
+06/Apr/2016 18:58:41,549- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2509,localport=13000]
+06/Apr/2016 18:58:41,551- Logging: 
+Server Thread 2509 running.
+
+06/Apr/2016 18:59:22,822- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 18:59:22,823- Logging: 
+Removing client thread 2509 at 2
+06/Apr/2016 19:08:33,709- Logging: Properties file loaded
+06/Apr/2016 19:08:33,714- Logging: Properties file loaded
+06/Apr/2016 19:08:34,134- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 19:08:34,139- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 19:08:39,163- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2520,localport=13000]
+06/Apr/2016 19:08:39,167- Logging: 
+Server Thread 2520 running.
+
+06/Apr/2016 19:08:43,766- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2521,localport=13000]
+06/Apr/2016 19:08:43,768- Logging: 
+Server Thread 2521 running.
+
+06/Apr/2016 19:11:55,226- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 19:11:55,227- Logging: 
+Removing client thread 2521 at 1
+06/Apr/2016 19:12:12,147- Logging: Properties file loaded
+06/Apr/2016 19:12:12,151- Logging: Properties file loaded
+06/Apr/2016 19:12:12,611- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 19:12:12,616- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 19:12:21,835- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2548,localport=13000]
+06/Apr/2016 19:12:21,839- Logging: 
+Server Thread 2548 running.
+
+06/Apr/2016 19:17:50,128- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 19:17:50,129- Logging: 
+Removing client thread 2548 at 0
+06/Apr/2016 19:18:13,819- Logging: Properties file loaded
+06/Apr/2016 19:18:13,825- Logging: Properties file loaded
+06/Apr/2016 19:18:14,283- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 19:18:14,289- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 19:18:19,814- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2558,localport=13000]
+06/Apr/2016 19:18:19,818- Logging: 
+Server Thread 2558 running.
+
+06/Apr/2016 19:18:55,310- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 19:18:55,311- Logging: 
+Removing client thread 2558 at 0
+06/Apr/2016 19:19:15,209- Logging: Properties file loaded
+06/Apr/2016 19:19:15,213- Logging: Properties file loaded
+06/Apr/2016 19:19:15,637- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 19:19:15,643- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 19:19:23,865- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2561,localport=13000]
+06/Apr/2016 19:19:23,870- Logging: 
+Server Thread 2561 running.
+
+06/Apr/2016 19:19:26,914- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2562,localport=13000]
+06/Apr/2016 19:19:26,917- Logging: 
+Server Thread 2562 running.
+
+06/Apr/2016 19:22:12,535- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2588,localport=13000]
+06/Apr/2016 19:22:12,539- Logging: 
+Server Thread 2588 running.
+
+06/Apr/2016 19:25:18,533- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2594,localport=13000]
+06/Apr/2016 19:25:18,535- Logging: 
+Server Thread 2594 running.
+
+06/Apr/2016 19:25:32,594- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2595,localport=13000]
+06/Apr/2016 19:25:32,596- Logging: 
+Server Thread 2595 running.
+
+06/Apr/2016 19:26:28,459- Logging: java.lang.NullPointerException
+06/Apr/2016 19:26:28,462- Logging: 
+Removing client thread 2595 at 4
+06/Apr/2016 19:27:50,703- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2597,localport=13000]
+06/Apr/2016 19:27:50,708- Logging: 
+Server Thread 2597 running.
+
+06/Apr/2016 19:27:55,210- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2598,localport=13000]
+06/Apr/2016 19:27:55,213- Logging: 
+Server Thread 2598 running.
+
+06/Apr/2016 19:31:39,697- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2604,localport=13000]
+06/Apr/2016 19:31:39,699- Logging: 
+Server Thread 2604 running.
+
+06/Apr/2016 19:31:43,761- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2605,localport=13000]
+06/Apr/2016 19:31:43,763- Logging: 
+Server Thread 2605 running.
+
+06/Apr/2016 19:33:56,447- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2607,localport=13000]
+06/Apr/2016 19:33:56,450- Logging: 
+Server Thread 2607 running.
+
+06/Apr/2016 19:34:00,226- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2608,localport=13000]
+06/Apr/2016 19:34:00,228- Logging: 
+Server Thread 2608 running.
+
+06/Apr/2016 19:35:07,625- Logging: Properties file loaded
+06/Apr/2016 19:35:07,628- Logging: Properties file loaded
+06/Apr/2016 19:35:08,070- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 19:35:08,076- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 19:35:13,126- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2610,localport=13000]
+06/Apr/2016 19:35:13,130- Logging: 
+Server Thread 2610 running.
+
+06/Apr/2016 19:35:18,806- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2611,localport=13000]
+06/Apr/2016 19:35:18,809- Logging: 
+Server Thread 2611 running.
+
+06/Apr/2016 19:42:10,342- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 19:42:10,343- Logging: 
+Removing client thread 2611 at 1
+06/Apr/2016 19:42:59,009- Logging: Properties file loaded
+06/Apr/2016 19:42:59,014- Logging: Properties file loaded
+06/Apr/2016 19:42:59,447- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 19:42:59,453- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 19:43:05,585- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2620,localport=13000]
+06/Apr/2016 19:43:05,591- Logging: 
+Server Thread 2620 running.
+
+06/Apr/2016 19:43:10,727- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2621,localport=13000]
+06/Apr/2016 19:43:10,729- Logging: 
+Server Thread 2621 running.
+
+06/Apr/2016 19:46:05,503- Logging: Properties file loaded
+06/Apr/2016 19:46:05,507- Logging: Properties file loaded
+06/Apr/2016 19:46:05,942- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 19:46:05,948- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 19:46:13,101- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2627,localport=13000]
+06/Apr/2016 19:46:13,108- Logging: 
+Server Thread 2627 running.
+
+06/Apr/2016 19:46:18,287- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2629,localport=13000]
+06/Apr/2016 19:46:18,289- Logging: 
+Server Thread 2629 running.
+
+06/Apr/2016 19:53:57,892- Logging: Properties file loaded
+06/Apr/2016 19:53:57,896- Logging: Properties file loaded
+06/Apr/2016 19:53:58,340- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 19:53:58,346- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 19:54:01,892- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2774,localport=13000]
+06/Apr/2016 19:54:01,904- Logging: 
+Server Thread 2774 running.
+
+06/Apr/2016 19:54:06,504- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2775,localport=13000]
+06/Apr/2016 19:54:06,506- Logging: 
+Server Thread 2775 running.
+
+06/Apr/2016 19:57:45,945- Logging: Properties file loaded
+06/Apr/2016 19:57:45,951- Logging: Properties file loaded
+06/Apr/2016 19:57:46,392- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 19:57:46,397- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 19:57:53,304- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2788,localport=13000]
+06/Apr/2016 19:57:53,309- Logging: 
+Server Thread 2788 running.
+
+06/Apr/2016 19:57:57,576- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2789,localport=13000]
+06/Apr/2016 19:57:57,578- Logging: 
+Server Thread 2789 running.
+
+06/Apr/2016 20:01:22,461- Logging: Properties file loaded
+06/Apr/2016 20:01:22,467- Logging: Properties file loaded
+06/Apr/2016 20:01:22,986- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 20:01:22,991- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 20:01:27,395- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2795,localport=13000]
+06/Apr/2016 20:01:27,402- Logging: 
+Server Thread 2795 running.
+
+06/Apr/2016 20:02:32,875- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2797,localport=13000]
+06/Apr/2016 20:02:32,877- Logging: 
+Server Thread 2797 running.
+
+06/Apr/2016 20:11:29,470- Logging: Properties file loaded
+06/Apr/2016 20:11:29,474- Logging: Properties file loaded
+06/Apr/2016 20:11:29,920- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 20:11:29,927- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 20:11:33,822- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2806,localport=13000]
+06/Apr/2016 20:11:33,831- Logging: 
+Server Thread 2806 running.
+
+06/Apr/2016 20:11:37,235- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2807,localport=13000]
+06/Apr/2016 20:11:37,237- Logging: 
+Server Thread 2807 running.
+
+06/Apr/2016 22:35:22,153- Logging: Properties file loaded
+06/Apr/2016 22:35:22,169- Logging: Properties file loaded
+06/Apr/2016 22:35:24,520- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 22:37:15,612- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1643,localport=13000]
+06/Apr/2016 22:37:15,620- Logging: 
+Server Thread 1643 running.
+
+06/Apr/2016 22:39:17,109- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 22:39:17,110- Logging: 
+Removing client thread 1643 at 0
+06/Apr/2016 22:39:38,387- Logging: Properties file loaded
+06/Apr/2016 22:39:38,391- Logging: Properties file loaded
+06/Apr/2016 22:39:38,907- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 22:39:38,912- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 22:39:50,146- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1719,localport=13000]
+06/Apr/2016 22:39:50,154- Logging: 
+Server Thread 1719 running.
+
+06/Apr/2016 22:45:13,013- Logging: Properties file loaded
+06/Apr/2016 22:45:13,019- Logging: Properties file loaded
+06/Apr/2016 22:45:13,458- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 22:45:13,463- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 22:45:20,123- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1734,localport=13000]
+06/Apr/2016 22:45:20,127- Logging: 
+Server Thread 1734 running.
+
+06/Apr/2016 22:46:54,922- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 22:46:54,923- Logging: 
+Removing client thread 1734 at 0
+06/Apr/2016 22:48:04,512- Logging: Properties file loaded
+06/Apr/2016 22:48:04,517- Logging: Properties file loaded
+06/Apr/2016 22:48:05,036- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 22:48:05,042- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 22:48:14,282- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1740,localport=13000]
+06/Apr/2016 22:48:14,287- Logging: 
+Server Thread 1740 running.
+
+06/Apr/2016 22:51:50,600- Logging: Properties file loaded
+06/Apr/2016 22:51:50,604- Logging: Properties file loaded
+06/Apr/2016 22:51:51,033- Logging: Can't create database 'contectadodb'; database exists
+06/Apr/2016 22:51:51,038- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+06/Apr/2016 22:52:06,121- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1744,localport=13000]
+06/Apr/2016 22:52:06,134- Logging: 
+Server Thread 1744 running.
+
+06/Apr/2016 22:53:16,270- Logging: java.net.SocketException: Connection reset
+06/Apr/2016 22:53:16,271- Logging: 
+Removing client thread 1744 at 0
+07/Apr/2016 00:03:23,429- Logging: Properties file loaded
+07/Apr/2016 00:03:23,433- Logging: Properties file loaded
+07/Apr/2016 00:03:23,860- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 00:03:23,865- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 00:04:32,981- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2262,localport=13000]
+07/Apr/2016 00:04:32,985- Logging: 
+Server Thread 2262 running.
+
+07/Apr/2016 00:17:11,628- Logging: Properties file loaded
+07/Apr/2016 00:17:11,632- Logging: Properties file loaded
+07/Apr/2016 00:17:12,059- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 00:17:12,064- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 00:17:52,350- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2285,localport=13000]
+07/Apr/2016 00:17:52,354- Logging: 
+Server Thread 2285 running.
+
+07/Apr/2016 00:47:12,961- Logging: Properties file loaded
+07/Apr/2016 00:47:12,987- Logging: Properties file loaded
+07/Apr/2016 00:47:15,388- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 00:47:32,959- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1646,localport=13000]
+07/Apr/2016 00:47:32,965- Logging: 
+Server Thread 1646 running.
+
+07/Apr/2016 00:48:54,764- Logging: Properties file loaded
+07/Apr/2016 00:48:54,767- Logging: Properties file loaded
+07/Apr/2016 00:48:57,074- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 00:49:50,027- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1655,localport=13000]
+07/Apr/2016 00:49:50,032- Logging: 
+Server Thread 1655 running.
+
+07/Apr/2016 00:53:39,991- Logging: Properties file loaded
+07/Apr/2016 00:53:39,997- Logging: Properties file loaded
+07/Apr/2016 00:53:42,292- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 00:54:24,765- Logging: Properties file loaded
+07/Apr/2016 00:54:24,769- Logging: Properties file loaded
+07/Apr/2016 00:54:27,080- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 00:54:35,302- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1665,localport=13000]
+07/Apr/2016 00:54:35,306- Logging: 
+Server Thread 1665 running.
+
+07/Apr/2016 01:15:50,958- Logging: Properties file loaded
+07/Apr/2016 01:15:50,962- Logging: Properties file loaded
+07/Apr/2016 01:15:53,252- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 01:16:02,112- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1724,localport=13000]
+07/Apr/2016 01:16:02,118- Logging: 
+Server Thread 1724 running.
+
+07/Apr/2016 01:20:05,687- Logging: Properties file loaded
+07/Apr/2016 01:20:05,692- Logging: Properties file loaded
+07/Apr/2016 01:20:07,984- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 01:20:14,924- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1738,localport=13000]
+07/Apr/2016 01:20:14,929- Logging: 
+Server Thread 1738 running.
+
+07/Apr/2016 01:54:27,403- Logging: Properties file loaded
+07/Apr/2016 01:54:27,408- Logging: Properties file loaded
+07/Apr/2016 01:54:29,706- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 01:54:52,659- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1761,localport=13000]
+07/Apr/2016 01:54:52,664- Logging: 
+Server Thread 1761 running.
+
+07/Apr/2016 01:57:02,600- Logging: Properties file loaded
+07/Apr/2016 01:57:02,605- Logging: Properties file loaded
+07/Apr/2016 01:57:03,029- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 01:57:03,034- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 01:57:10,779- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1770,localport=13000]
+07/Apr/2016 01:57:10,783- Logging: 
+Server Thread 1770 running.
+
+07/Apr/2016 01:57:31,876- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 01:57:31,877- Logging: 
+Removing client thread 1770 at 0
+07/Apr/2016 02:05:08,795- Logging: Properties file loaded
+07/Apr/2016 02:05:08,799- Logging: Properties file loaded
+07/Apr/2016 02:05:09,263- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 02:05:09,269- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 02:05:17,299- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1786,localport=13000]
+07/Apr/2016 02:05:17,303- Logging: 
+Server Thread 1786 running.
+
+07/Apr/2016 02:05:38,374- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 02:05:38,374- Logging: 
+Removing client thread 1786 at 0
+07/Apr/2016 02:10:38,250- Logging: Properties file loaded
+07/Apr/2016 02:10:38,291- Logging: Properties file loaded
+07/Apr/2016 02:10:38,723- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 02:10:38,729- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 02:10:44,839- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1793,localport=13000]
+07/Apr/2016 02:10:44,843- Logging: 
+Server Thread 1793 running.
+
+07/Apr/2016 02:19:21,248- Logging: Properties file loaded
+07/Apr/2016 02:19:21,252- Logging: Properties file loaded
+07/Apr/2016 02:19:21,674- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 02:19:21,679- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 02:52:12,295- Logging: Properties file loaded
+07/Apr/2016 02:52:12,299- Logging: Properties file loaded
+07/Apr/2016 02:52:12,729- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 02:52:12,734- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 03:00:23,291- Logging: Properties file loaded
+07/Apr/2016 03:00:23,296- Logging: Properties file loaded
+07/Apr/2016 03:00:23,708- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 03:00:23,714- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 03:01:19,257- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2106,localport=13000]
+07/Apr/2016 03:01:19,266- Logging: 
+Server Thread 2106 running.
+
+07/Apr/2016 03:04:49,755- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:04:49,756- Logging: 
+Removing client thread 2106 at 0
+07/Apr/2016 03:07:24,254- Logging: Properties file loaded
+07/Apr/2016 03:07:24,258- Logging: Properties file loaded
+07/Apr/2016 03:07:24,740- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 03:07:24,741- Logging: Can not bind to port : 13000
+Retrying
+
+07/Apr/2016 03:07:24,742- Logging: Properties file loaded
+07/Apr/2016 03:07:24,743- Logging: Properties file loaded
+07/Apr/2016 03:07:24,751- Logging: Server startet. IP : Dell-Pc/192.168.56.1, Port : 2145
+07/Apr/2016 03:07:37,021- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2146,localport=13000]
+07/Apr/2016 03:07:37,023- Logging: 
+Server Thread 2146 running.
+
+07/Apr/2016 03:10:10,623- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2156,localport=13000]
+07/Apr/2016 03:10:10,625- Logging: 
+Server Thread 2156 running.
+
+07/Apr/2016 03:11:15,122- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:11:15,122- Logging: 
+Removing client thread 2156 at 1
+07/Apr/2016 03:11:21,026- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2158,localport=13000]
+07/Apr/2016 03:11:21,029- Logging: 
+Server Thread 2158 running.
+
+07/Apr/2016 03:12:17,789- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:12:17,790- Logging: 
+Removing client thread 2158 at 1
+07/Apr/2016 03:13:33,362- Logging: Properties file loaded
+07/Apr/2016 03:13:33,367- Logging: Properties file loaded
+07/Apr/2016 03:13:33,805- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 03:13:33,810- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 03:13:40,739- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2162,localport=13000]
+07/Apr/2016 03:13:40,743- Logging: 
+Server Thread 2162 running.
+
+07/Apr/2016 03:14:47,463- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2166,localport=13000]
+07/Apr/2016 03:14:47,467- Logging: 
+Server Thread 2166 running.
+
+07/Apr/2016 03:18:35,421- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2174,localport=13000]
+07/Apr/2016 03:18:35,423- Logging: 
+Server Thread 2174 running.
+
+07/Apr/2016 03:18:49,308- Logging: Properties file loaded
+07/Apr/2016 03:18:49,314- Logging: Properties file loaded
+07/Apr/2016 03:18:49,741- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 03:18:49,742- Logging: Can not bind to port : 13000
+Retrying
+
+07/Apr/2016 03:18:49,744- Logging: Properties file loaded
+07/Apr/2016 03:18:49,745- Logging: Properties file loaded
+07/Apr/2016 03:18:49,756- Logging: Server startet. IP : Dell-Pc/192.168.56.1, Port : 2177
+07/Apr/2016 03:19:04,835- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2178,localport=13000]
+07/Apr/2016 03:19:04,837- Logging: 
+Server Thread 2178 running.
+
+07/Apr/2016 03:20:05,334- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:20:05,335- Logging: 
+Removing client thread 2178 at 3
+07/Apr/2016 03:20:17,636- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2182,localport=13000]
+07/Apr/2016 03:20:17,638- Logging: 
+Server Thread 2182 running.
+
+07/Apr/2016 03:20:35,131- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2184,localport=13000]
+07/Apr/2016 03:20:35,133- Logging: 
+Server Thread 2184 running.
+
+07/Apr/2016 03:22:10,543- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:22:10,543- Logging: 
+Removing client thread 2184 at 4
+07/Apr/2016 03:22:15,198- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:22:15,198- Logging: 
+Removing client thread 2162 at 0
+07/Apr/2016 03:22:18,362- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:22:18,362- Logging: 
+Removing client thread 2166 at 0
+07/Apr/2016 03:22:21,790- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:22:21,791- Logging: 
+Removing client thread 2174 at 0
+07/Apr/2016 03:22:57,953- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:22:57,953- Logging: 
+Removing client thread 2182 at 0
+07/Apr/2016 03:25:33,374- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2227,localport=13000]
+07/Apr/2016 03:25:33,376- Logging: 
+Server Thread 2227 running.
+
+07/Apr/2016 03:26:02,645- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2228,localport=13000]
+07/Apr/2016 03:26:02,649- Logging: 
+Server Thread 2228 running.
+
+07/Apr/2016 03:26:38,775- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:26:38,776- Logging: 
+Removing client thread 2228 at 1
+07/Apr/2016 03:26:41,185- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:26:41,185- Logging: 
+Removing client thread 2227 at 0
+07/Apr/2016 03:26:49,280- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2229,localport=13000]
+07/Apr/2016 03:26:49,283- Logging: 
+Server Thread 2229 running.
+
+07/Apr/2016 03:27:40,041- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:27:40,042- Logging: 
+Removing client thread 2229 at 0
+07/Apr/2016 03:27:46,757- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2230,localport=13000]
+07/Apr/2016 03:27:46,758- Logging: 
+Server Thread 2230 running.
+
+07/Apr/2016 03:29:25,142- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:29:25,143- Logging: 
+Removing client thread 2230 at 0
+07/Apr/2016 03:29:31,898- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2232,localport=13000]
+07/Apr/2016 03:29:31,900- Logging: 
+Server Thread 2232 running.
+
+07/Apr/2016 03:30:59,911- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:30:59,911- Logging: 
+Removing client thread 2232 at 0
+07/Apr/2016 03:31:06,756- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2237,localport=13000]
+07/Apr/2016 03:31:06,759- Logging: 
+Server Thread 2237 running.
+
+07/Apr/2016 03:39:34,947- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:39:34,947- Logging: 
+Removing client thread 2237 at 0
+07/Apr/2016 03:39:41,739- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2253,localport=13000]
+07/Apr/2016 03:39:41,743- Logging: 
+Server Thread 2253 running.
+
+07/Apr/2016 03:39:55,545- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:39:55,546- Logging: 
+Removing client thread 2253 at 0
+07/Apr/2016 03:45:00,751- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2265,localport=13000]
+07/Apr/2016 03:45:00,753- Logging: 
+Server Thread 2265 running.
+
+07/Apr/2016 03:45:21,778- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:45:21,779- Logging: 
+Removing client thread 2265 at 0
+07/Apr/2016 03:45:28,486- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2267,localport=13000]
+07/Apr/2016 03:45:28,489- Logging: 
+Server Thread 2267 running.
+
+07/Apr/2016 03:45:38,957- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:45:38,958- Logging: 
+Removing client thread 2267 at 0
+07/Apr/2016 03:46:05,535- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2268,localport=13000]
+07/Apr/2016 03:46:05,537- Logging: 
+Server Thread 2268 running.
+
+07/Apr/2016 03:48:10,839- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:48:10,839- Logging: 
+Removing client thread 2268 at 0
+07/Apr/2016 03:48:47,195- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2272,localport=13000]
+07/Apr/2016 03:48:47,220- Logging: 
+Server Thread 2272 running.
+
+07/Apr/2016 03:48:58,416- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2273,localport=13000]
+07/Apr/2016 03:48:58,418- Logging: 
+Server Thread 2273 running.
+
+07/Apr/2016 03:52:54,192- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:52:54,193- Logging: 
+Removing client thread 2273 at 1
+07/Apr/2016 03:52:55,807- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 03:52:55,807- Logging: 
+Removing client thread 2272 at 0
+07/Apr/2016 03:53:06,646- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2311,localport=13000]
+07/Apr/2016 03:53:06,648- Logging: 
+Server Thread 2311 running.
+
+07/Apr/2016 04:01:39,720- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 04:01:39,721- Logging: 
+Removing client thread 2311 at 0
+07/Apr/2016 04:01:49,608- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2319,localport=13000]
+07/Apr/2016 04:01:49,610- Logging: 
+Server Thread 2319 running.
+
+07/Apr/2016 04:02:20,367- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 04:02:20,367- Logging: 
+Removing client thread 2319 at 0
+07/Apr/2016 04:07:51,513- Logging: Properties file loaded
+07/Apr/2016 04:07:51,518- Logging: Properties file loaded
+07/Apr/2016 04:07:51,960- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 04:07:51,966- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 04:08:03,564- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2327,localport=13000]
+07/Apr/2016 04:08:03,571- Logging: 
+Server Thread 2327 running.
+
+07/Apr/2016 04:10:22,646- Logging: Properties file loaded
+07/Apr/2016 04:10:22,653- Logging: Properties file loaded
+07/Apr/2016 04:10:23,162- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 04:10:23,167- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 04:10:29,703- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2335,localport=13000]
+07/Apr/2016 04:10:29,707- Logging: 
+Server Thread 2335 running.
+
+07/Apr/2016 04:11:48,342- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 04:11:48,342- Logging: 
+Removing client thread 2335 at 0
+07/Apr/2016 04:12:02,728- Logging: Properties file loaded
+07/Apr/2016 04:12:02,733- Logging: Properties file loaded
+07/Apr/2016 04:12:03,170- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 04:12:03,176- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 04:12:08,732- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2344,localport=13000]
+07/Apr/2016 04:12:08,738- Logging: 
+Server Thread 2344 running.
+
+07/Apr/2016 04:16:27,277- Logging: Properties file loaded
+07/Apr/2016 04:16:27,283- Logging: Properties file loaded
+07/Apr/2016 04:16:27,754- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 04:16:27,760- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 04:16:33,432- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2363,localport=13000]
+07/Apr/2016 04:16:33,438- Logging: 
+Server Thread 2363 running.
+
+07/Apr/2016 04:17:28,930- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 04:17:28,931- Logging: 
+Removing client thread 2363 at 0
+07/Apr/2016 12:40:13,640- Logging: Properties file loaded
+07/Apr/2016 12:40:13,720- Logging: Properties file loaded
+07/Apr/2016 12:40:16,685- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 12:41:59,299- Logging: Properties file loaded
+07/Apr/2016 12:41:59,304- Logging: Properties file loaded
+07/Apr/2016 12:41:59,896- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 12:41:59,903- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 12:42:11,017- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1818,localport=13000]
+07/Apr/2016 12:42:11,042- Logging: 
+Server Thread 1818 running.
+
+07/Apr/2016 12:42:16,536- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1831,localport=13000]
+07/Apr/2016 12:42:16,539- Logging: 
+Server Thread 1831 running.
+
+07/Apr/2016 12:42:43,287- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 12:42:43,288- Logging: 
+Removing client thread 1831 at 1
+07/Apr/2016 12:42:52,269- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 12:42:52,270- Logging: 
+Removing client thread 1818 at 0
+07/Apr/2016 12:52:14,503- Logging: Properties file loaded
+07/Apr/2016 12:52:14,514- Logging: Properties file loaded
+07/Apr/2016 12:52:14,996- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 12:52:15,002- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 12:52:32,100- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1933,localport=13000]
+07/Apr/2016 12:52:32,105- Logging: 
+Server Thread 1933 running.
+
+07/Apr/2016 12:55:24,570- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 12:55:24,571- Logging: 
+Removing client thread 1933 at 0
+07/Apr/2016 12:58:42,238- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1950,localport=13000]
+07/Apr/2016 12:58:42,241- Logging: 
+Server Thread 1950 running.
+
+07/Apr/2016 12:59:02,401- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 12:59:02,401- Logging: 
+Removing client thread 1950 at 0
+07/Apr/2016 13:06:41,371- Logging: Properties file loaded
+07/Apr/2016 13:06:41,377- Logging: Properties file loaded
+07/Apr/2016 13:06:41,855- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 13:06:41,860- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 13:06:47,607- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1976,localport=13000]
+07/Apr/2016 13:06:47,616- Logging: 
+Server Thread 1976 running.
+
+07/Apr/2016 13:13:22,131- Logging: Properties file loaded
+07/Apr/2016 13:13:22,139- Logging: Properties file loaded
+07/Apr/2016 13:13:22,625- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 13:13:22,631- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 13:13:29,646- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=1988,localport=13000]
+07/Apr/2016 13:13:29,651- Logging: 
+Server Thread 1988 running.
+
+07/Apr/2016 13:23:08,638- Logging: Properties file loaded
+07/Apr/2016 13:23:08,642- Logging: Properties file loaded
+07/Apr/2016 13:23:09,154- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 13:23:09,159- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 13:23:18,100- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2050,localport=13000]
+07/Apr/2016 13:23:18,104- Logging: 
+Server Thread 2050 running.
+
+07/Apr/2016 13:42:39,277- Logging: Properties file loaded
+07/Apr/2016 13:42:39,282- Logging: Properties file loaded
+07/Apr/2016 13:42:39,753- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 13:42:39,758- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 13:42:49,645- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2254,localport=13000]
+07/Apr/2016 13:42:49,650- Logging: 
+Server Thread 2254 running.
+
+07/Apr/2016 13:44:08,354- Logging: Properties file loaded
+07/Apr/2016 13:44:08,362- Logging: Properties file loaded
+07/Apr/2016 13:44:08,831- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 13:44:08,837- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+07/Apr/2016 13:44:16,041- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2260,localport=13000]
+07/Apr/2016 13:44:16,045- Logging: 
+Server Thread 2260 running.
+
+07/Apr/2016 13:47:35,619- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2273,localport=13000]
+07/Apr/2016 13:47:35,621- Logging: 
+Server Thread 2273 running.
+
+07/Apr/2016 13:58:57,602- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2301,localport=13000]
+07/Apr/2016 13:58:57,605- Logging: 
+Server Thread 2301 running.
+
+07/Apr/2016 14:03:24,734- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2390,localport=13000]
+07/Apr/2016 14:03:24,735- Logging: 
+Server Thread 2390 running.
+
+07/Apr/2016 14:03:55,251- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2397,localport=13000]
+07/Apr/2016 14:03:55,256- Logging: 
+Server Thread 2397 running.
+
+07/Apr/2016 14:04:27,989- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 14:04:27,990- Logging: 
+Removing client thread 2260 at 0
+07/Apr/2016 14:04:30,823- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 14:04:30,824- Logging: 
+Removing client thread 2397 at 3
+07/Apr/2016 14:04:32,316- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 14:04:32,317- Logging: 
+Removing client thread 2390 at 2
+07/Apr/2016 14:04:37,157- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 14:04:37,158- Logging: 
+Removing client thread 2301 at 1
+07/Apr/2016 14:04:39,188- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 14:04:39,189- Logging: 
+Removing client thread 2273 at 0
+07/Apr/2016 14:04:50,374- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2403,localport=13000]
+07/Apr/2016 14:04:50,376- Logging: 
+Server Thread 2403 running.
+
+07/Apr/2016 14:06:31,243- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2424,localport=13000]
+07/Apr/2016 14:06:31,248- Logging: 
+Server Thread 2424 running.
+
+07/Apr/2016 14:06:47,270- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=2425,localport=13000]
+07/Apr/2016 14:06:47,272- Logging: 
+Server Thread 2425 running.
+
+07/Apr/2016 14:11:36,657- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 14:11:36,657- Logging: 
+Removing client thread 2425 at 2
+07/Apr/2016 14:12:03,208- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 14:12:03,208- Logging: 
+Removing client thread 2424 at 1
+07/Apr/2016 14:12:05,606- Logging: java.net.SocketException: Connection reset
+07/Apr/2016 14:12:05,608- Logging: 
+Removing client thread 2403 at 0
+07/Apr/2016 19:06:11,328- Logging: Properties file loaded
+07/Apr/2016 19:06:11,383- Logging: Properties file loaded
+07/Apr/2016 19:06:13,551- Logging: Can't create database 'contectadodb'; database exists
+07/Apr/2016 19:06:13,569- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000

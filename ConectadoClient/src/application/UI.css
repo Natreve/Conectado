@@ -1,0 +1,207 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.chat-menu {
+	-fx-background-color: #FF9966;
+	-fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 ); 
+	-fx-padding: 0px;
+}
+.button-raised{
+    -fx-padding: 0.7em 0.57em;
+    -fx-button-type: RAISED;
+    -fx-background-color: #FF9966;
+    -fx-pref-width: 100;
+    -fx-text-fill: WHITE;
+}
+.contact-label {
+	-fx-text-fill: WHITE;
+	-fx-padding: 15px;
+}
+.btnCircle {
+	-fx-button-type: RAISED;
+	-fx-text-fill: WHITE;
+	-fx-pref-width: 100;
+    -fx-background-color: #FF9966;
+	-fx-background-radius: 5em; 
+	-fx-min-width: 40px; 
+    -fx-min-height: 40px; 
+    -fx-max-width: 40px; 
+    -fx-max-height: 40px;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.attcheFileBtn {
+	-fx-text-fill: #FF9966;
+    -fx-background-color:transparent; 
+	-fx-min-width: 40px; 
+    -fx-min-height: 40px; 
+    -fx-max-width: 40px; 
+    -fx-max-height: 40px;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.sendIcon {
+	-fx-fill: white;
+	-fx-background-color: White;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.videoCallIcon {
+	-fx-fill: white;
+	-fx-background-color: White;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.voiceCallIcon{
+	-fx-fill: white;
+	-fx-background-color: White;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.chatGroupIcon{
+	-fx-fill: white;
+	-fx-background-color: White;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.attcheFileIcon{
+	-fx-fill: #FF9966;
+	-fx-background-color: White;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.backBtnIcon {
+	-fx-fill: white;
+	-fx-background-color: White;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.backBtn {
+	-fx-text-fill: WHITE;
+    -fx-background-color:transparent; 
+	-fx-min-width: 50px; 
+    -fx-min-height: 50px; 
+    -fx-max-width: 50px; 
+    -fx-max-height: 50px;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.menuCircleBtn {
+	-fx-button-type: RAISED;
+	-fx-text-fill: WHITE;
+	-fx-pref-width: 50;
+    -fx-background-color: #FF9966;
+	-fx-background-radius: 5em; 
+	-fx-min-width: 20px; 
+    -fx-min-height: 20px; 
+    -fx-max-width: 20px; 
+    -fx-max-height: 20px;
+    -fx-background-insets: 0px; 
+    -fx-padding: 0px;
+}
+.chat-bubble {
+    -fx-shape: "M228.5,0L228.5 0.038 235.104 0.038 228.5 6.642 228.5 44 0 44 0 0 z";
+    -fx-background-color: #FF9966;
+    -fx-background-insets: 0,1;
+    -fx-padding: 10 20 10 20;
+    -fx-pref-width: 200;
+}
+.contact-chat-bubble {
+	-fx-shape: "M6.604,0L6.604 0.038 0 0.038 6.604 6.642 6.604 44 235.104 44 235.104 0 z";
+    -fx-background-color: #fbfcfc;
+    -fx-background-insets: 0,1;
+    -fx-padding: 10 20 10 20;
+    -fx-pref-width: 200;
+}
+.user-chat-bubble {
+	-fx-shape: "M228.5,0L228.5 0.038 235.104 0.038 228.5 6.642 228.5 44 0 44 0 0 z";
+    -fx-background-color: #FF9966;
+    -fx-background-insets: 0,1;
+    -fx-padding: 10 20 10 20;
+    -fx-pref-width: 200;
+    -fx-text-fill: WHITE;
+}
+.ui-textField-bubble {
+	-fx-shape: "M228.5,0L228.5 0.038 235.104 0.038 228.5 6.642 228.5 44 0 44 0 0 z";
+    -fx-background-color: #fbfcfc;
+    -fx-background-insets: 0,1;
+    -fx-padding: 10 20 10 20;
+    -fx-pref-width: 300;
+}
+/*
+ * 
+ * Tab Panel Formatting
+ * 
+ */
+
+.jfx-tab-pane .tab-header-background{
+    -fx-background-color:#FF9966;
+}
+.jfx-tab-pane .tab-header-area .jfx-rippler{
+    -fx-rippler-fill :White;
+}
+
+.jfx-tab-pane .tab-header-area .tab-selected-line{
+    -fx-stroke : White;
+}
+
+.tab .tab-label { 
+    -fx-font-family: Lato;
+    -fx-text-fill: WHITE;
+}
+
+/*
+ * 
+ * Other styles
+ * 
+ */
+#welcome-text {
+   -fx-font-size: 32px;
+   -fx-font-family: "Lato";
+   -fx-fill: #818181;
+   -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+#actiontarget {
+  -fx-fill: FIREBRICK;
+  -fx-font-weight: bold;
+  -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );  
+}
+.scroll-pane {
+    -fx-background-color:transparent;
+}
+.border-pane-center{
+	-fx-background-color:blue;
+}
+/*
+ * List view formatting
+ * 
+ */
+
+/* Cell content position */
+.jfx-list-cell-content-container {
+    -fx-alignment: center-left;
+}
+
+/* List Element Label Formatting */
+.jfx-list-cell-container > .label{
+  	-fx-text-fill:  #666666;
+}
+
+.jfx-list-cell:odd:selected .jfx-list-cell-container  , .jfx-list-cell:even:selected .jfx-list-cell-container{ 
+	-fx-background-color: transparent;
+}
+/* List Element Text Formatting */
+.jfx-list-cell {
+	-fx-background-insets: 0.0 ; 
+	-fx-text-fill: #666666;
+	-fx-font-family: "Lato";
+	-fx-font-size: 16px;
+}
+/* List Elements background color */
+.jfx-list-cell:odd, .jfx-list-cell:even {
+	-fx-background-color: transparent;
+}
+/* Animated Ripple effect color */
+.jfx-list-cell .jfx-rippler{
+	-fx-rippler-fill:#FF9966;
+}
+
+
