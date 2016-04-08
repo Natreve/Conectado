@@ -385,7 +385,7 @@ public class ClientUI extends Application {
 		 * PLEASE PLACE ALL CODE INVOLVING FILES AND OR SERVER CALLS HERE
 		 * */
 	}
-	public void loadMsg(String chatID){
+	public void loadMsgHistory(String chatID){
 		ArrayList<ChatHistory> chatMsgList = new ArrayList<ChatHistory>();
 		chatMsgList = ChatHistory.getChatHistory(chatID);
 		
@@ -417,15 +417,8 @@ public class ClientUI extends Application {
 		      */  
 		}
 	}
-	public void sendMsg(String msg){
-		Label newMessage = new Label(msg+"\t\t\t\t"+TimeStamp.getTimeStamp());
-		newMessage.setEffect(dropShadow);
-		newMessage.setWrapText(true);
-        newMessage.getStyleClass().add("user-chat-bubble");
-        GridPane.setHalignment(newMessage, HPos.RIGHT);
-        chatBubbleLayout.addRow(msgCount, newMessage);
-        
-        /*Save message to chat History*/
+	public void saveMsgLocal(String msg){
+		/*Save message to chat History*/
         @SuppressWarnings("unused")
 		ArrayList<ChatHistory> chatHistoryList = new ArrayList<ChatHistory>();
         ArrayList<ChatHistory> chatHistory = new ArrayList<>();
@@ -444,7 +437,29 @@ public class ClientUI extends Application {
         }
         //System.out.println("Message1: " + chatHistoryList.get(0).getMessage());
         ChatHistory.saveChat(chatHistory, contactName.getText().toString(), newChatHistory);
-                
+	}
+	public void sendMsg(String msg){
+		Label newMessage = new Label(msg+"\t\t\t\t"+TimeStamp.getTimeStamp());
+		newMessage.setEffect(dropShadow);
+		newMessage.setWrapText(true);
+        newMessage.getStyleClass().add("user-chat-bubble");
+        GridPane.setHalignment(newMessage, HPos.RIGHT);
+        chatBubbleLayout.addRow(msgCount, newMessage);
+        
+        Message msgSocket = new Message("Chat", activeUser, contactName.getText(), TimeStamp.getTimeStamp(), msgField.getText());
+		socket.sendSocket(msgSocket);
+		System.out.println("Message sent to: "+ contactName.getText());
+		saveMsgLocal(msg);
+	}
+	public void receiveMsg(String msg){
+		Label newMessage = new Label(msg+"\t\t\t\t"+TimeStamp.getTimeStamp());
+		newMessage.setEffect(dropShadow);
+		newMessage.setWrapText(true);
+        newMessage.getStyleClass().add("contact-chat-bubble");
+		chatBubbleLayout.addRow(msgCount, newMessage);
+		GridPane.setHalignment(newMessage, HPos.LEFT);
+		msgCount++;
+		saveMsgLocal(msg);
 	}
 	public void lunchChatUI() {
 		initializeChatComponents();
@@ -501,7 +516,7 @@ public class ClientUI extends Application {
 				public void changed(ObservableValue<? extends Label> observable, Label oldValue, Label newValue) {
 					contactName.setText(newValue.getText());
                     System.out.println("Contact selected: "+ contactName.getText());
-                    loadMsg(contactName.getText());
+                    loadMsgHistory(contactName.getText());
                     applicationWindow.setScene(chatScene);
 				}
         });
@@ -510,10 +525,9 @@ public class ClientUI extends Application {
 			@Override
 			public void handle(ActionEvent arg0) {
 				if(!msgField.getText().isEmpty()){
-					Message msg = new Message("Chat", activeUser, contactName.getText(), TimeStamp.getTimeStamp(), msgField.getText());
-					socket.sendSocket(msg);
+					//Message msg = new Message("Chat", activeUser, contactName.getText(), TimeStamp.getTimeStamp(), msgField.getText());
+					//socket.sendSocket(msg);
 					sendMsg(msgField.getText());
-					System.out.println("Message sent to: "+ contactName.getText());
 					msgField.clear();
 					msgCount++;
 				} else {

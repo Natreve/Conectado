@@ -136,57 +136,47 @@ public class Server implements Runnable {
 		}
 	}
 	public boolean handleAuthenticationMsg(int ID, AuthMsg msg){
-		if(msg.getType().equals("Authentication")){
-			if(findUserThread(msg.getSender()) == null){
-				if(Auth.auth_login(msg.getUsername(), msg.getPassword())){
-					clients[findClient(ID)].username = msg.getUsername();
-					clients[findClient(ID)].send(new AuthMsg(true));
-					/*broadcast("newuser", "SERVER", msg.sender);
-					sendMessageToUser(msg.sender);*/
-				}
-				else {
-					clients[findClient(ID)].send(new AuthMsg(false));
-				}
+		if(findUserThread(msg.getSender()) == null){
+			if(Auth.auth_login(msg.getUsername(), msg.getPassword())){
+				clients[findClient(ID)].username = msg.getUsername();
+				clients[findClient(ID)].send(new AuthMsg(true));
+				/*broadcast("newuser", "SERVER", msg.sender);
+				sendMessageToUser(msg.sender);*/
+			}
+			else {
+				clients[findClient(ID)].send(new AuthMsg(false));
 			}
 		}
 		return false;
 	}
 	public boolean handleSignUp(int ID, AuthMsg msg){
-		 if (msg.getType().equals("Signup")) {
-				if (findUserThread(msg.getUsername()) == null) {
-					if (!db.userExists(msg.getUsername())) {
-						Auth.create(msg.getUsername(), msg.getPassword());
-						clients[findClient(ID)].username = msg.getUsername();
-						clients[findClient(ID)].send(new AuthMsg("Signup", true));
-						System.out.println("TRUE");
-					} else {
-						clients[findClient(ID)].send(new AuthMsg("Signup", false));
-						System.out.println("FALSE");
-					}
-				} else {
-					clients[findClient(ID)].send(new AuthMsg("Signup", false));
-				}
+		if (findUserThread(msg.getUsername()) == null) {
+			if(!Auth.check(msg.getUsername())) {
+				Auth.create(msg.getUsername(), msg.getPassword());
+				clients[findClient(ID)].username = msg.getUsername();
+				clients[findClient(ID)].send(new AuthMsg("Signup", true));
+				System.out.println("TRUE");
+			} else {
+				clients[findClient(ID)].send(new AuthMsg("Signup", false));
+				System.out.println("FALSE");
 			}
+		} else {
+			clients[findClient(ID)].send(new AuthMsg("Signup", false));
+		}
 		return false;
 	}
 	public boolean handleChatMsg(int ID, Message msg){
-		if(msg.getType().equals("Chat")){
-			findUserThread(msg.getRecipient()).send(msg);
+		findUserThread(msg.getRecipient()).send(msg);
 			//clients[findClient(ID)].send();
-		}
 		return false;
 	}
 	public boolean handleVoiceMsg(int ID, Message msg){
-		if(msg.getType().equals("Voice")) {
-			String userIP = findUserThread(msg.getSender()).socket.getInetAddress().getHostAddress();
-			System.out.println("The IP address from using find user thread :" + userIP);
-			// Session meNuhKnow;
-			Vsjtalk talk = new Vsjtalk(userIP);
-			talk.startPhone();
-			System.out.println("phone started");
-		}else {
-			//System.out.println("Phone not started");
-		}
+		String userIP = findUserThread(msg.getSender()).socket.getInetAddress().getHostAddress();
+		System.out.println("The IP address from using find user thread :" + userIP);
+		// Session meNuhKnow;
+		Vsjtalk talk = new Vsjtalk(userIP);
+		talk.startPhone();
+		System.out.println("phone started");
 		return false;
 	};
 	public boolean hanldeVideoMsg(){

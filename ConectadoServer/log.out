@@ -1996,3 +1996,199 @@ Removing client thread 2403 at 0
 07/Apr/2016 19:06:11,383- Logging: Properties file loaded
 07/Apr/2016 19:06:13,551- Logging: Can't create database 'contectadodb'; database exists
 07/Apr/2016 19:06:13,569- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+08/Apr/2016 01:38:59,632- Logging: Properties file loaded
+08/Apr/2016 01:38:59,670- Logging: Properties file loaded
+08/Apr/2016 01:39:02,359- Logging: Can't create database 'contectadodb'; database exists
+08/Apr/2016 01:39:02,367- Logging: Server started on IP : Dell-Pc/192.168.56.1, Port : 13000
+08/Apr/2016 01:39:50,916- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9106,localport=13000]
+08/Apr/2016 01:39:50,947- Logging: 
+Server Thread 9106 running.
+
+08/Apr/2016 01:40:06,271- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9109,localport=13000]
+08/Apr/2016 01:40:06,274- Logging: 
+Server Thread 9109 running.
+
+08/Apr/2016 01:42:08,014- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 01:42:08,014- Logging: 
+Removing client thread 9109 at 1
+08/Apr/2016 01:42:11,071- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 01:42:11,071- Logging: 
+Removing client thread 9106 at 0
+08/Apr/2016 01:46:13,042- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9135,localport=13000]
+08/Apr/2016 01:46:13,044- Logging: 
+Server Thread 9135 running.
+
+08/Apr/2016 01:46:26,235- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9137,localport=13000]
+08/Apr/2016 01:46:26,238- Logging: 
+Server Thread 9137 running.
+
+08/Apr/2016 01:48:21,654- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 01:48:21,654- Logging: 
+Removing client thread 9135 at 0
+08/Apr/2016 01:48:24,358- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 01:48:24,358- Logging: 
+Removing client thread 9137 at 0
+08/Apr/2016 01:59:04,094- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9169,localport=13000]
+08/Apr/2016 01:59:04,099- Logging: 
+Server Thread 9169 running.
+
+08/Apr/2016 01:59:26,809- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9170,localport=13000]
+08/Apr/2016 01:59:26,812- Logging: 
+Server Thread 9170 running.
+
+08/Apr/2016 02:01:48,959- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:01:48,959- Logging: 
+Removing client thread 9170 at 1
+08/Apr/2016 02:01:50,783- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:01:50,784- Logging: 
+Removing client thread 9169 at 0
+08/Apr/2016 02:02:59,072- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9179,localport=13000]
+08/Apr/2016 02:02:59,074- Logging: 
+Server Thread 9179 running.
+
+08/Apr/2016 02:03:12,791- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9180,localport=13000]
+08/Apr/2016 02:03:12,796- Logging: 
+Server Thread 9180 running.
+
+08/Apr/2016 02:04:28,331- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:04:28,332- Logging: 
+Removing client thread 9180 at 1
+08/Apr/2016 02:04:29,618- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:04:29,619- Logging: 
+Removing client thread 9179 at 0
+08/Apr/2016 02:04:36,644- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9182,localport=13000]
+08/Apr/2016 02:04:36,646- Logging: 
+Server Thread 9182 running.
+
+08/Apr/2016 02:04:58,425- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9183,localport=13000]
+08/Apr/2016 02:04:58,427- Logging: 
+Server Thread 9183 running.
+
+08/Apr/2016 02:06:43,524- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:06:43,524- Logging: 
+Removing client thread 9182 at 0
+08/Apr/2016 02:06:45,018- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:06:45,019- Logging: 
+Removing client thread 9183 at 0
+08/Apr/2016 02:07:09,338- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9188,localport=13000]
+08/Apr/2016 02:07:09,340- Logging: 
+Server Thread 9188 running.
+
+08/Apr/2016 02:07:25,371- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9191,localport=13000]
+08/Apr/2016 02:07:25,373- Logging: 
+Server Thread 9191 running.
+
+08/Apr/2016 02:11:35,680- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:11:35,680- Logging: 
+Removing client thread 9188 at 0
+08/Apr/2016 02:11:37,488- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:11:37,488- Logging: 
+Removing client thread 9191 at 0
+08/Apr/2016 02:11:56,048- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9207,localport=13000]
+08/Apr/2016 02:11:56,052- Logging: 
+Server Thread 9207 running.
+
+08/Apr/2016 02:12:08,165- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9210,localport=13000]
+08/Apr/2016 02:12:08,171- Logging: 
+Server Thread 9210 running.
+
+08/Apr/2016 02:19:55,226- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:19:55,226- Logging: 
+Removing client thread 9210 at 1
+08/Apr/2016 02:19:59,527- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:19:59,528- Logging: 
+Removing client thread 9207 at 0
+08/Apr/2016 02:20:05,793- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9237,localport=13000]
+08/Apr/2016 02:20:05,796- Logging: 
+Server Thread 9237 running.
+
+08/Apr/2016 02:20:17,995- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9239,localport=13000]
+08/Apr/2016 02:20:18,000- Logging: 
+Server Thread 9239 running.
+
+08/Apr/2016 02:20:58,158- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:20:58,159- Logging: 
+Removing client thread 9239 at 1
+08/Apr/2016 02:20:59,740- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:20:59,740- Logging: 
+Removing client thread 9237 at 0
+08/Apr/2016 02:21:25,004- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9242,localport=13000]
+08/Apr/2016 02:21:25,032- Logging: 
+Server Thread 9242 running.
+
+08/Apr/2016 02:21:37,563- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9243,localport=13000]
+08/Apr/2016 02:21:37,567- Logging: 
+Server Thread 9243 running.
+
+08/Apr/2016 02:26:11,543- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:26:11,544- Logging: 
+Removing client thread 9243 at 1
+08/Apr/2016 02:26:12,838- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:26:12,838- Logging: 
+Removing client thread 9242 at 0
+08/Apr/2016 02:26:19,443- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9249,localport=13000]
+08/Apr/2016 02:26:19,447- Logging: 
+Server Thread 9249 running.
+
+08/Apr/2016 02:26:37,576- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9250,localport=13000]
+08/Apr/2016 02:26:37,578- Logging: 
+Server Thread 9250 running.
+
+08/Apr/2016 02:27:45,990- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:27:45,990- Logging: 
+Removing client thread 9250 at 1
+08/Apr/2016 02:27:47,182- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:27:47,183- Logging: 
+Removing client thread 9249 at 0
+08/Apr/2016 02:28:28,161- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9251,localport=13000]
+08/Apr/2016 02:28:28,166- Logging: 
+Server Thread 9251 running.
+
+08/Apr/2016 02:28:40,198- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9252,localport=13000]
+08/Apr/2016 02:28:40,200- Logging: 
+Server Thread 9252 running.
+
+08/Apr/2016 02:34:09,961- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:34:09,962- Logging: 
+Removing client thread 9252 at 1
+08/Apr/2016 02:34:11,241- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:34:11,241- Logging: 
+Removing client thread 9251 at 0
+08/Apr/2016 02:34:26,136- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9257,localport=13000]
+08/Apr/2016 02:34:26,138- Logging: 
+Server Thread 9257 running.
+
+08/Apr/2016 02:34:45,010- Logging: 
+Client accepted: Socket[addr=/192.168.56.1,port=9258,localport=13000]
+08/Apr/2016 02:34:45,015- Logging: 
+Server Thread 9258 running.
+
+08/Apr/2016 02:38:59,556- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:38:59,556- Logging: 
+Removing client thread 9258 at 1
+08/Apr/2016 02:39:01,582- Logging: java.net.SocketException: Connection reset
+08/Apr/2016 02:39:01,582- Logging: 
+Removing client thread 9257 at 0

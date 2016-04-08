@@ -71,4 +71,20 @@ public class Auth {
 		}
 	}
 
+	public static boolean check(String uName) {
+		conexion = DBConnectorFactory.getConnection();
+		final String query = "SELECT count(*) from users WHERE Username = ?";
+		try {
+			final PreparedStatement ps = conexion.prepareStatement(query);
+			ps.setString(1, uName);
+			final ResultSet resultSet = ps.executeQuery();
+			if (resultSet.next()) {
+				final int count = resultSet.getInt(1);
+				if(count>0){return true;}
+			}
+		} catch (Exception ex) {
+			ex.printStackTrace();
+		}
+		return false;
+	}
 }

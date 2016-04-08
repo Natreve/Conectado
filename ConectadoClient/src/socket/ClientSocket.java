@@ -80,18 +80,22 @@ public class ClientSocket implements Runnable{
 			
 		}//return false;
 	}
-	public boolean handleChatMsg(Message msg){
+	public void handleChatMsg(Message msg){
 		if(msg.getType().equals("Chat")){
 			if(msg.getSender().equals(ui.getActiveUser())){
 				System.out.println("Rejected Message");
 			}
 			else{
 				System.out.println("Message handled sucessful");
-				ui.getContactName().setText(msg.getSender());
-				ui.sendMsg(msg.getMsgContent());
+				Platform.runLater(new Runnable(){
+					@Override
+					public void run() {
+						ui.getContactName().setText(msg.getSender());
+						ui.receiveMsg(msg.getMsgContent());
+					}
+				});
 			}
 		}
-		return false;
 	}
 	public void sendSocket(Message msg){
 		try {
